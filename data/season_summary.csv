@@ -1,0 +1,1522 @@
+season,geography,geography_source,indicator,positive_tests,tests_performed,reported_weeks,positivity_pct
+2016_2017,AB,laboratory summary,adv,335.0,31502.0,51,1.063
+2016_2017,AB,laboratory summary,evrv,3944.0,31502.0,51,12.52
+2016_2017,AB,laboratory summary,flu,4326.0,31843.0,51,13.585
+2016_2017,AB,laboratory summary,flua,3577.0,31843.0,51,11.233
+2016_2017,AB,laboratory summary,fluah1,18.0,31843.0,51,0.057
+2016_2017,AB,laboratory summary,fluah3,2760.0,31843.0,51,8.668
+2016_2017,AB,laboratory summary,fluauns,799.0,31843.0,51,2.509
+2016_2017,AB,laboratory summary,flub,749.0,31843.0,51,2.352
+2016_2017,AB,laboratory summary,hcov,693.0,31502.0,51,2.2
+2016_2017,AB,laboratory summary,hmpv,687.0,31502.0,51,2.181
+2016_2017,AB,laboratory summary,rsv,2643.0,31502.0,51,8.39
+2016_2017,BC,regional,adv,255.0,9459.0,51,2.696
+2016_2017,BC,regional,evrv,2014.0,8650.0,50,23.283
+2016_2017,BC,regional,flu,6457.0,25975.0,52,24.859
+2016_2017,BC,regional,flua,5739.0,25975.0,52,22.094
+2016_2017,BC,regional,fluah1,50.0,25975.0,52,0.192
+2016_2017,BC,regional,fluah3,3596.0,25975.0,52,13.844
+2016_2017,BC,regional,fluauns,2093.0,25975.0,52,8.058
+2016_2017,BC,regional,flub,718.0,25975.0,52,2.764
+2016_2017,BC,regional,hcov,575.0,8650.0,50,6.647
+2016_2017,BC,regional,hmpv,437.0,9459.0,51,4.62
+2016_2017,BC,regional,rsv,1827.0,25975.0,52,7.034
+2016_2017,Canada,national,adv,3217.0,151406.0,52,2.125
+2016_2017,Canada,national,evrv,16391.0,117076.0,52,14.0
+2016_2017,Canada,national,flu,39194.0,263544.0,52,14.872
+2016_2017,Canada,national,flua,34756.0,263544.0,52,13.188
+2016_2017,Canada,national,fluah1,162.0,263544.0,52,0.061
+2016_2017,Canada,national,fluah3,16824.0,263544.0,52,6.384
+2016_2017,Canada,national,fluauns,17768.0,263544.0,52,6.742
+2016_2017,Canada,national,flub,4438.0,263544.0,52,1.684
+2016_2017,Canada,national,hcov,6537.0,132422.0,52,4.936
+2016_2017,Canada,national,hmpv,4125.0,145020.0,52,2.844
+2016_2017,Canada,national,rsv,21897.0,241603.0,52,9.063
+2016_2017,MB,laboratory summary,adv,77.0,4780.0,49,1.611
+2016_2017,MB,laboratory summary,evrv,487.0,4795.0,49,10.156
+2016_2017,MB,laboratory summary,flu,579.0,8637.0,49,6.704
+2016_2017,MB,laboratory summary,flua,447.0,8637.0,49,5.175
+2016_2017,MB,laboratory summary,fluah1,0.0,8637.0,49,0.0
+2016_2017,MB,laboratory summary,fluah3,135.0,8637.0,49,1.563
+2016_2017,MB,laboratory summary,fluauns,312.0,8637.0,49,3.612
+2016_2017,MB,laboratory summary,flub,132.0,8637.0,49,1.528
+2016_2017,MB,laboratory summary,hcov,124.0,2368.0,49,5.236
+2016_2017,MB,laboratory summary,hmpv,69.0,2368.0,49,2.914
+2016_2017,MB,laboratory summary,rsv,791.0,8371.0,49,9.449
+2016_2017,NB,laboratory summary,adv,54.0,2345.0,48,2.303
+2016_2017,NB,laboratory summary,evrv,203.0,2337.0,48,8.686
+2016_2017,NB,laboratory summary,flu,1324.0,6904.0,48,19.177
+2016_2017,NB,laboratory summary,flua,1166.0,6904.0,48,16.889
+2016_2017,NB,laboratory summary,fluah1,3.0,6904.0,48,0.043
+2016_2017,NB,laboratory summary,fluah3,131.0,6904.0,48,1.897
+2016_2017,NB,laboratory summary,fluauns,1032.0,6904.0,48,14.948
+2016_2017,NB,laboratory summary,flub,158.0,6904.0,48,2.289
+2016_2017,NB,laboratory summary,hcov,98.0,2325.0,47,4.215
+2016_2017,NB,laboratory summary,hmpv,71.0,2337.0,48,3.038
+2016_2017,NB,laboratory summary,rsv,644.0,6442.0,48,9.997
+2016_2017,NL,laboratory summary,adv,83.0,3613.0,52,2.297
+2016_2017,NL,laboratory summary,evrv,275.0,3613.0,52,7.611
+2016_2017,NL,laboratory summary,flu,510.0,3613.0,52,14.116
+2016_2017,NL,laboratory summary,flua,448.0,3613.0,52,12.4
+2016_2017,NL,laboratory summary,fluah1,0.0,3613.0,52,0.0
+2016_2017,NL,laboratory summary,fluah3,22.0,3613.0,52,0.609
+2016_2017,NL,laboratory summary,fluauns,426.0,3613.0,52,11.791
+2016_2017,NL,laboratory summary,flub,62.0,3613.0,52,1.716
+2016_2017,NL,laboratory summary,hmpv,99.0,3613.0,52,2.74
+2016_2017,NL,laboratory summary,rsv,292.0,3613.0,52,8.082
+2016_2017,NS,laboratory summary,adv,8.0,426.0,52,1.878
+2016_2017,NS,laboratory summary,evrv,55.0,426.0,52,12.911
+2016_2017,NS,laboratory summary,flu,451.0,2706.0,52,16.667
+2016_2017,NS,laboratory summary,flua,417.0,2706.0,52,15.41
+2016_2017,NS,laboratory summary,fluah1,0.0,2706.0,52,0.0
+2016_2017,NS,laboratory summary,fluah3,1.0,2706.0,52,0.037
+2016_2017,NS,laboratory summary,fluauns,416.0,2706.0,52,15.373
+2016_2017,NS,laboratory summary,flub,34.0,2706.0,52,1.256
+2016_2017,NS,laboratory summary,hcov,29.0,426.0,52,6.808
+2016_2017,NS,laboratory summary,hmpv,22.0,426.0,52,5.164
+2016_2017,NS,laboratory summary,rsv,317.0,2653.0,52,11.949
+2016_2017,NT,laboratory summary,adv,8.0,567.0,50,1.411
+2016_2017,NT,laboratory summary,evrv,88.0,567.0,50,15.52
+2016_2017,NT,laboratory summary,flu,80.0,567.0,50,14.109
+2016_2017,NT,laboratory summary,flua,59.0,567.0,50,10.406
+2016_2017,NT,laboratory summary,fluah1,0.0,567.0,50,0.0
+2016_2017,NT,laboratory summary,fluah3,44.0,567.0,50,7.76
+2016_2017,NT,laboratory summary,fluauns,15.0,567.0,50,2.646
+2016_2017,NT,laboratory summary,flub,21.0,567.0,50,3.704
+2016_2017,NT,laboratory summary,hcov,15.0,565.0,49,2.655
+2016_2017,NT,laboratory summary,hmpv,6.0,567.0,50,1.058
+2016_2017,NT,laboratory summary,rsv,102.0,567.0,50,17.989
+2016_2017,NU,laboratory summary,adv,78.0,887.0,52,8.794
+2016_2017,NU,laboratory summary,evrv,168.0,649.0,47,25.886
+2016_2017,NU,laboratory summary,flu,116.0,888.0,52,13.063
+2016_2017,NU,laboratory summary,flua,85.0,888.0,52,9.572
+2016_2017,NU,laboratory summary,fluah1,0.0,888.0,52,0.0
+2016_2017,NU,laboratory summary,fluah3,71.0,888.0,52,7.995
+2016_2017,NU,laboratory summary,fluauns,14.0,888.0,52,1.577
+2016_2017,NU,laboratory summary,flub,31.0,888.0,52,3.491
+2016_2017,NU,laboratory summary,hcov,58.0,610.0,44,9.508
+2016_2017,NU,laboratory summary,hmpv,22.0,862.0,52,2.552
+2016_2017,NU,laboratory summary,rsv,145.0,890.0,52,16.292
+2016_2017,ON,regional,adv,966.0,52838.0,52,1.828
+2016_2017,ON,regional,evrv,5930.0,46407.0,52,12.778
+2016_2017,ON,regional,flu,10781.0,72508.0,52,14.869
+2016_2017,ON,regional,flua,9608.0,72508.0,52,13.251
+2016_2017,ON,regional,fluah1,84.0,72508.0,52,0.116
+2016_2017,ON,regional,fluah3,7807.0,72508.0,52,10.767
+2016_2017,ON,regional,fluauns,1717.0,72508.0,52,2.368
+2016_2017,ON,regional,flub,1173.0,72508.0,52,1.618
+2016_2017,ON,regional,hcov,3055.0,45294.0,52,6.745
+2016_2017,ON,regional,hmpv,1676.0,52748.0,52,3.177
+2016_2017,ON,regional,rsv,5710.0,69461.0,52,8.22
+2016_2017,PE,laboratory summary,adv,3.0,92.0,38,3.261
+2016_2017,PE,laboratory summary,evrv,24.0,93.0,39,25.806
+2016_2017,PE,laboratory summary,flu,201.0,836.0,46,24.043
+2016_2017,PE,laboratory summary,flua,196.0,836.0,46,23.445
+2016_2017,PE,laboratory summary,fluah1,2.0,836.0,46,0.239
+2016_2017,PE,laboratory summary,fluah3,194.0,836.0,46,23.206
+2016_2017,PE,laboratory summary,fluauns,0.0,836.0,46,0.0
+2016_2017,PE,laboratory summary,flub,5.0,836.0,46,0.598
+2016_2017,PE,laboratory summary,hcov,5.0,93.0,39,5.376
+2016_2017,PE,laboratory summary,hmpv,2.0,93.0,39,2.151
+2016_2017,PE,laboratory summary,rsv,128.0,934.0,46,13.704
+2016_2017,QC,regional,adv,879.0,26860.0,52,3.273
+2016_2017,QC,regional,flu,11789.0,87679.0,52,13.446
+2016_2017,QC,regional,flua,10813.0,87679.0,52,12.332
+2016_2017,QC,regional,fluah1,0.0,87679.0,52,0.0
+2016_2017,QC,regional,fluah3,617.0,87679.0,52,0.704
+2016_2017,QC,regional,fluauns,10194.0,87679.0,52,11.627
+2016_2017,QC,regional,flub,976.0,87679.0,52,1.113
+2016_2017,QC,regional,hcov,802.0,22644.0,52,3.542
+2016_2017,QC,regional,hmpv,575.0,23001.0,52,2.5
+2016_2017,QC,regional,rsv,7009.0,69812.0,52,10.04
+2016_2017,SK,laboratory summary,adv,462.0,16701.0,52,2.766
+2016_2017,SK,laboratory summary,evrv,3173.0,16701.0,52,18.999
+2016_2017,SK,laboratory summary,flu,2052.0,19176.0,52,10.701
+2016_2017,SK,laboratory summary,flua,1704.0,19176.0,52,8.886
+2016_2017,SK,laboratory summary,fluah1,5.0,19176.0,52,0.026
+2016_2017,SK,laboratory summary,fluah3,1077.0,19176.0,52,5.616
+2016_2017,SK,laboratory summary,fluauns,622.0,19176.0,52,3.244
+2016_2017,SK,laboratory summary,flub,348.0,19176.0,52,1.815
+2016_2017,SK,laboratory summary,hcov,1053.0,16609.0,52,6.34
+2016_2017,SK,laboratory summary,hmpv,449.0,16701.0,52,2.688
+2016_2017,SK,laboratory summary,rsv,2039.0,19171.0,52,10.636
+2016_2017,YT,laboratory summary,flu,274.0,720.0,47,38.056
+2016_2017,YT,laboratory summary,flua,247.0,720.0,47,34.306
+2016_2017,YT,laboratory summary,fluah1,0.0,720.0,47,0.0
+2016_2017,YT,laboratory summary,fluah3,167.0,720.0,47,23.194
+2016_2017,YT,laboratory summary,fluauns,80.0,720.0,47,11.111
+2016_2017,YT,laboratory summary,flub,27.0,720.0,47,3.75
+2016_2017,YT,laboratory summary,rsv,65.0,720.0,47,9.028
+2017_2018,AB,laboratory summary,adv,534.0,32296.0,51,1.653
+2017_2018,AB,laboratory summary,evrv,4870.0,32296.0,51,15.079
+2017_2018,AB,laboratory summary,flu,8363.0,39312.0,51,21.273
+2017_2018,AB,laboratory summary,flua,5253.0,39312.0,51,13.362
+2017_2018,AB,laboratory summary,fluah1,263.0,39312.0,51,0.669
+2017_2018,AB,laboratory summary,fluah3,3657.0,39312.0,51,9.303
+2017_2018,AB,laboratory summary,fluauns,1333.0,39312.0,51,3.391
+2017_2018,AB,laboratory summary,flub,3110.0,39312.0,51,7.911
+2017_2018,AB,laboratory summary,hcov,1319.0,32296.0,51,4.084
+2017_2018,AB,laboratory summary,hmpv,1853.0,32296.0,51,5.738
+2017_2018,AB,laboratory summary,rsv,0.0,32296.0,51,0.0
+2017_2018,BC,regional,adv,112.0,10005.0,51,1.119
+2017_2018,BC,regional,evrv,1638.0,7461.0,51,21.954
+2017_2018,BC,regional,flu,5638.0,21515.0,51,26.205
+2017_2018,BC,regional,flua,2730.0,21515.0,51,12.689
+2017_2018,BC,regional,fluah1,506.0,21515.0,51,2.352
+2017_2018,BC,regional,fluah3,1529.0,21515.0,51,7.107
+2017_2018,BC,regional,fluauns,695.0,21515.0,51,3.23
+2017_2018,BC,regional,flub,2908.0,21515.0,51,13.516
+2017_2018,BC,regional,hcov,406.0,7461.0,51,5.442
+2017_2018,BC,regional,hmpv,469.0,9880.0,51,4.747
+2017_2018,BC,regional,rsv,721.0,21332.0,51,3.38
+2017_2018,Canada,national,adv,2476.0,135368.0,51,1.829
+2017_2018,Canada,national,evrv,12533.0,81135.0,51,15.447
+2017_2018,Canada,national,flu,62126.0,302960.0,51,20.506
+2017_2018,Canada,national,flua,34993.0,302960.0,51,11.55
+2017_2018,Canada,national,fluah1,1235.0,302960.0,51,0.408
+2017_2018,Canada,national,fluah3,10119.0,302960.0,51,3.34
+2017_2018,Canada,national,fluauns,23639.0,302960.0,51,7.803
+2017_2018,Canada,national,flub,27133.0,302960.0,51,8.956
+2017_2018,Canada,national,hcov,3705.0,98507.0,51,3.761
+2017_2018,Canada,national,hmpv,5061.0,131101.0,51,3.86
+2017_2018,Canada,national,rsv,13768.0,266517.0,51,5.166
+2017_2018,MB,laboratory summary,adv,72.0,5459.0,50,1.319
+2017_2018,MB,laboratory summary,evrv,588.0,5489.0,50,10.712
+2017_2018,MB,laboratory summary,flu,1780.0,12601.0,50,14.126
+2017_2018,MB,laboratory summary,flua,1140.0,12601.0,50,9.047
+2017_2018,MB,laboratory summary,fluah1,20.0,12601.0,50,0.159
+2017_2018,MB,laboratory summary,fluah3,311.0,12601.0,50,2.468
+2017_2018,MB,laboratory summary,fluauns,809.0,12601.0,50,6.42
+2017_2018,MB,laboratory summary,flub,640.0,12601.0,50,5.079
+2017_2018,MB,laboratory summary,hcov,97.0,2829.0,50,3.429
+2017_2018,MB,laboratory summary,hmpv,152.0,2829.0,50,5.373
+2017_2018,MB,laboratory summary,rsv,582.0,12349.0,50,4.713
+2017_2018,NB,laboratory summary,adv,84.0,2836.0,47,2.962
+2017_2018,NB,laboratory summary,evrv,369.0,2836.0,47,13.011
+2017_2018,NB,laboratory summary,flu,2609.0,11045.0,47,23.622
+2017_2018,NB,laboratory summary,flua,1487.0,11045.0,47,13.463
+2017_2018,NB,laboratory summary,fluah1,114.0,11045.0,47,1.032
+2017_2018,NB,laboratory summary,fluah3,188.0,11045.0,47,1.702
+2017_2018,NB,laboratory summary,fluauns,1185.0,11045.0,47,10.729
+2017_2018,NB,laboratory summary,flub,1122.0,11045.0,47,10.158
+2017_2018,NB,laboratory summary,hcov,138.0,2836.0,47,4.866
+2017_2018,NB,laboratory summary,hmpv,115.0,2836.0,47,4.055
+2017_2018,NB,laboratory summary,rsv,719.0,10612.0,47,6.775
+2017_2018,NL,laboratory summary,adv,52.0,4609.0,50,1.128
+2017_2018,NL,laboratory summary,evrv,270.0,4609.0,50,5.858
+2017_2018,NL,laboratory summary,flu,1009.0,4609.0,50,21.892
+2017_2018,NL,laboratory summary,flua,483.0,4609.0,50,10.479
+2017_2018,NL,laboratory summary,fluah1,7.0,4609.0,50,0.152
+2017_2018,NL,laboratory summary,fluah3,3.0,4609.0,50,0.065
+2017_2018,NL,laboratory summary,fluauns,473.0,4609.0,50,10.263
+2017_2018,NL,laboratory summary,flub,526.0,4609.0,50,11.412
+2017_2018,NL,laboratory summary,hmpv,238.0,4610.0,50,5.163
+2017_2018,NL,laboratory summary,rsv,243.0,4609.0,50,5.272
+2017_2018,NS,laboratory summary,adv,8.0,640.0,51,1.25
+2017_2018,NS,laboratory summary,evrv,96.0,640.0,51,15.0
+2017_2018,NS,laboratory summary,flu,869.0,4313.0,51,20.148
+2017_2018,NS,laboratory summary,flua,567.0,4313.0,51,13.146
+2017_2018,NS,laboratory summary,fluah1,0.0,4313.0,51,0.0
+2017_2018,NS,laboratory summary,fluah3,1.0,4313.0,51,0.023
+2017_2018,NS,laboratory summary,fluauns,566.0,4313.0,51,13.123
+2017_2018,NS,laboratory summary,flub,302.0,4313.0,51,7.002
+2017_2018,NS,laboratory summary,hcov,19.0,640.0,51,2.969
+2017_2018,NS,laboratory summary,hmpv,35.0,640.0,51,5.469
+2017_2018,NS,laboratory summary,rsv,533.0,4351.0,51,12.25
+2017_2018,NT,laboratory summary,adv,25.0,592.0,51,4.223
+2017_2018,NT,laboratory summary,evrv,82.0,592.0,51,13.851
+2017_2018,NT,laboratory summary,flu,138.0,598.0,51,23.077
+2017_2018,NT,laboratory summary,flua,95.0,598.0,51,15.886
+2017_2018,NT,laboratory summary,fluah1,4.0,598.0,51,0.669
+2017_2018,NT,laboratory summary,fluah3,91.0,598.0,51,15.217
+2017_2018,NT,laboratory summary,fluauns,0.0,598.0,51,0.0
+2017_2018,NT,laboratory summary,flub,43.0,598.0,51,7.191
+2017_2018,NT,laboratory summary,hcov,38.0,592.0,51,6.419
+2017_2018,NT,laboratory summary,hmpv,36.0,592.0,51,6.081
+2017_2018,NT,laboratory summary,rsv,0.0,592.0,51,0.0
+2017_2018,NU,laboratory summary,adv,19.0,331.0,48,5.74
+2017_2018,NU,laboratory summary,evrv,49.0,159.0,45,30.818
+2017_2018,NU,laboratory summary,flu,42.0,353.0,48,11.898
+2017_2018,NU,laboratory summary,flua,37.0,353.0,48,10.482
+2017_2018,NU,laboratory summary,fluah1,6.0,353.0,48,1.7
+2017_2018,NU,laboratory summary,fluah3,29.0,353.0,48,8.215
+2017_2018,NU,laboratory summary,fluauns,2.0,353.0,48,0.567
+2017_2018,NU,laboratory summary,flub,5.0,353.0,48,1.416
+2017_2018,NU,laboratory summary,hcov,10.0,158.0,45,6.329
+2017_2018,NU,laboratory summary,hmpv,15.0,330.0,48,4.545
+2017_2018,NU,laboratory summary,rsv,3.0,331.0,48,0.906
+2017_2018,ON,regional,adv,304.0,30854.0,51,0.985
+2017_2018,ON,regional,evrv,1324.0,8286.0,51,15.979
+2017_2018,ON,regional,flu,10527.0,64613.0,51,16.292
+2017_2018,ON,regional,flua,6019.0,64613.0,51,9.315
+2017_2018,ON,regional,fluah1,237.0,64613.0,51,0.367
+2017_2018,ON,regional,fluah3,3094.0,64613.0,51,4.789
+2017_2018,ON,regional,fluauns,2688.0,64613.0,51,4.16
+2017_2018,ON,regional,flub,4508.0,64613.0,51,6.977
+2017_2018,ON,regional,hcov,266.0,7406.0,51,3.592
+2017_2018,ON,regional,hmpv,727.0,30816.0,51,2.359
+2017_2018,ON,regional,rsv,2157.0,51819.0,51,4.163
+2017_2018,PE,laboratory summary,adv,6.0,95.0,40,6.316
+2017_2018,PE,laboratory summary,evrv,20.0,95.0,40,21.053
+2017_2018,PE,laboratory summary,flu,317.0,1304.0,47,24.31
+2017_2018,PE,laboratory summary,flua,146.0,1304.0,47,11.196
+2017_2018,PE,laboratory summary,fluah1,8.0,1304.0,47,0.613
+2017_2018,PE,laboratory summary,fluah3,134.0,1304.0,47,10.276
+2017_2018,PE,laboratory summary,fluauns,4.0,1304.0,47,0.307
+2017_2018,PE,laboratory summary,flub,171.0,1304.0,47,13.113
+2017_2018,PE,laboratory summary,hcov,7.0,95.0,40,7.368
+2017_2018,PE,laboratory summary,hmpv,5.0,95.0,40,5.263
+2017_2018,PE,laboratory summary,rsv,175.0,1336.0,47,13.099
+2017_2018,QC,regional,adv,980.0,28829.0,51,3.399
+2017_2018,QC,regional,flu,27761.0,123406.0,51,22.496
+2017_2018,QC,regional,flua,15462.0,123406.0,51,12.529
+2017_2018,QC,regional,fluah1,0.0,123406.0,51,0.0
+2017_2018,QC,regional,fluah3,0.0,123406.0,51,0.0
+2017_2018,QC,regional,fluauns,15462.0,123406.0,51,12.529
+2017_2018,QC,regional,flub,12299.0,123406.0,51,9.966
+2017_2018,QC,regional,hcov,627.0,25372.0,51,2.471
+2017_2018,QC,regional,hmpv,676.0,27355.0,51,2.471
+2017_2018,QC,regional,rsv,7622.0,107599.0,51,7.084
+2017_2018,SK,laboratory summary,adv,280.0,18822.0,50,1.488
+2017_2018,SK,laboratory summary,evrv,3227.0,18672.0,50,17.283
+2017_2018,SK,laboratory summary,flu,2942.0,18834.0,50,15.621
+2017_2018,SK,laboratory summary,flua,1486.0,18834.0,50,7.89
+2017_2018,SK,laboratory summary,fluah1,63.0,18834.0,50,0.335
+2017_2018,SK,laboratory summary,fluah3,1034.0,18834.0,50,5.49
+2017_2018,SK,laboratory summary,fluauns,389.0,18834.0,50,2.065
+2017_2018,SK,laboratory summary,flub,1456.0,18834.0,50,7.731
+2017_2018,SK,laboratory summary,hcov,778.0,18822.0,50,4.133
+2017_2018,SK,laboratory summary,hmpv,740.0,18822.0,50,3.932
+2017_2018,SK,laboratory summary,rsv,969.0,18834.0,50,5.145
+2017_2018,YT,laboratory summary,flu,131.0,457.0,46,28.665
+2017_2018,YT,laboratory summary,flua,88.0,457.0,46,19.256
+2017_2018,YT,laboratory summary,fluah1,7.0,457.0,46,1.532
+2017_2018,YT,laboratory summary,fluah3,48.0,457.0,46,10.503
+2017_2018,YT,laboratory summary,fluauns,33.0,457.0,46,7.221
+2017_2018,YT,laboratory summary,flub,43.0,457.0,46,9.409
+2017_2018,YT,laboratory summary,rsv,44.0,457.0,46,9.628
+2018_2019,AB,laboratory summary,adv,465.0,33293.0,52,1.397
+2018_2019,AB,laboratory summary,evrv,5212.0,33293.0,52,15.655
+2018_2019,AB,laboratory summary,flu,6976.0,39943.0,52,17.465
+2018_2019,AB,laboratory summary,flua,6630.0,39943.0,52,16.599
+2018_2019,AB,laboratory summary,fluah1,3362.0,39943.0,52,8.417
+2018_2019,AB,laboratory summary,fluah3,1290.0,39943.0,52,3.23
+2018_2019,AB,laboratory summary,fluauns,1978.0,39943.0,52,4.952
+2018_2019,AB,laboratory summary,flub,346.0,39943.0,52,0.866
+2018_2019,AB,laboratory summary,hcov,1262.0,33293.0,52,3.791
+2018_2019,AB,laboratory summary,hmpv,849.0,33293.0,52,2.55
+2018_2019,AB,laboratory summary,rsv,0.0,33293.0,52,0.0
+2018_2019,BC,regional,adv,177.0,12105.0,52,1.462
+2018_2019,BC,regional,evrv,2000.0,9252.0,51,21.617
+2018_2019,BC,regional,flu,7025.0,26008.0,51,27.011
+2018_2019,BC,regional,flua,6815.0,26008.0,51,26.203
+2018_2019,BC,regional,fluah1,2405.0,26008.0,51,9.247
+2018_2019,BC,regional,fluah3,1533.0,26008.0,51,5.894
+2018_2019,BC,regional,fluauns,2877.0,26008.0,51,11.062
+2018_2019,BC,regional,flub,210.0,26008.0,51,0.807
+2018_2019,BC,regional,hcov,467.0,9255.0,51,5.046
+2018_2019,BC,regional,hmpv,36.0,12105.0,52,0.297
+2018_2019,BC,regional,rsv,1468.0,26786.0,52,5.48
+2018_2019,Canada,national,adv,2269.0,135465.0,52,1.675
+2018_2019,Canada,national,evrv,12375.0,81682.0,52,15.15
+2018_2019,Canada,national,flu,46259.0,291142.0,52,15.889
+2018_2019,Canada,national,flua,43839.0,291142.0,52,15.058
+2018_2019,Canada,national,fluah1,9671.0,291142.0,52,3.322
+2018_2019,Canada,national,fluah3,4840.0,291142.0,52,1.662
+2018_2019,Canada,national,fluauns,29327.0,291142.0,52,10.073
+2018_2019,Canada,national,flub,2420.0,291142.0,52,0.831
+2018_2019,Canada,national,hcov,3482.0,100043.0,52,3.481
+2018_2019,Canada,national,hmpv,2785.0,128960.0,52,2.16
+2018_2019,Canada,national,rsv,16951.0,275665.0,52,6.149
+2018_2019,MB,laboratory summary,adv,61.0,5113.0,49,1.193
+2018_2019,MB,laboratory summary,evrv,662.0,5268.0,49,12.566
+2018_2019,MB,laboratory summary,flu,1269.0,11560.0,49,10.978
+2018_2019,MB,laboratory summary,flua,1194.0,11560.0,49,10.329
+2018_2019,MB,laboratory summary,fluah1,271.0,11560.0,49,2.344
+2018_2019,MB,laboratory summary,fluah3,121.0,11560.0,49,1.047
+2018_2019,MB,laboratory summary,fluauns,802.0,11560.0,49,6.938
+2018_2019,MB,laboratory summary,flub,75.0,11560.0,49,0.649
+2018_2019,MB,laboratory summary,hcov,133.0,3289.0,49,4.044
+2018_2019,MB,laboratory summary,hmpv,89.0,3256.0,48,2.733
+2018_2019,MB,laboratory summary,rsv,628.0,10954.0,49,5.733
+2018_2019,NB,laboratory summary,adv,145.0,4093.0,52,3.543
+2018_2019,NB,laboratory summary,evrv,464.0,4093.0,52,11.336
+2018_2019,NB,laboratory summary,flu,3250.0,15405.0,52,21.097
+2018_2019,NB,laboratory summary,flua,2884.0,15405.0,52,18.721
+2018_2019,NB,laboratory summary,fluah1,246.0,15405.0,52,1.597
+2018_2019,NB,laboratory summary,fluah3,39.0,15405.0,52,0.253
+2018_2019,NB,laboratory summary,fluauns,2599.0,15405.0,52,16.871
+2018_2019,NB,laboratory summary,flub,366.0,15405.0,52,2.376
+2018_2019,NB,laboratory summary,hcov,180.0,4093.0,52,4.398
+2018_2019,NB,laboratory summary,hmpv,152.0,4093.0,52,3.714
+2018_2019,NB,laboratory summary,rsv,1237.0,15404.0,52,8.03
+2018_2019,NL,laboratory summary,adv,50.0,5169.0,47,0.967
+2018_2019,NL,laboratory summary,evrv,362.0,5169.0,47,7.003
+2018_2019,NL,laboratory summary,flu,991.0,5169.0,47,19.172
+2018_2019,NL,laboratory summary,flua,980.0,5169.0,47,18.959
+2018_2019,NL,laboratory summary,fluah1,1.0,5169.0,47,0.019
+2018_2019,NL,laboratory summary,fluah3,0.0,5169.0,47,0.0
+2018_2019,NL,laboratory summary,fluauns,979.0,5169.0,47,18.94
+2018_2019,NL,laboratory summary,flub,11.0,5169.0,47,0.213
+2018_2019,NL,laboratory summary,hmpv,217.0,5169.0,47,4.198
+2018_2019,NL,laboratory summary,rsv,457.0,5169.0,47,8.841
+2018_2019,NS,laboratory summary,adv,3.0,626.0,51,0.479
+2018_2019,NS,laboratory summary,evrv,74.0,626.0,51,11.821
+2018_2019,NS,laboratory summary,flu,807.0,4290.0,51,18.811
+2018_2019,NS,laboratory summary,flua,785.0,4290.0,51,18.298
+2018_2019,NS,laboratory summary,fluah1,0.0,4290.0,51,0.0
+2018_2019,NS,laboratory summary,fluah3,0.0,4290.0,51,0.0
+2018_2019,NS,laboratory summary,fluauns,785.0,4290.0,51,18.298
+2018_2019,NS,laboratory summary,flub,22.0,4290.0,51,0.513
+2018_2019,NS,laboratory summary,hcov,11.0,626.0,51,1.757
+2018_2019,NS,laboratory summary,hmpv,11.0,626.0,51,1.757
+2018_2019,NS,laboratory summary,rsv,408.0,4178.0,51,9.765
+2018_2019,NT,laboratory summary,adv,15.0,657.0,52,2.283
+2018_2019,NT,laboratory summary,evrv,116.0,657.0,52,17.656
+2018_2019,NT,laboratory summary,flu,145.0,660.0,52,21.97
+2018_2019,NT,laboratory summary,flua,143.0,660.0,52,21.667
+2018_2019,NT,laboratory summary,fluah1,138.0,660.0,52,20.909
+2018_2019,NT,laboratory summary,fluah3,5.0,660.0,52,0.758
+2018_2019,NT,laboratory summary,fluauns,0.0,660.0,52,0.0
+2018_2019,NT,laboratory summary,flub,2.0,660.0,52,0.303
+2018_2019,NT,laboratory summary,hcov,37.0,657.0,52,5.632
+2018_2019,NT,laboratory summary,hmpv,7.0,657.0,52,1.065
+2018_2019,NT,laboratory summary,rsv,0.0,657.0,52,0.0
+2018_2019,NU,laboratory summary,adv,11.0,98.0,42,11.224
+2018_2019,NU,laboratory summary,evrv,27.0,98.0,42,27.551
+2018_2019,NU,laboratory summary,flu,14.0,98.0,42,14.286
+2018_2019,NU,laboratory summary,flua,14.0,98.0,42,14.286
+2018_2019,NU,laboratory summary,fluah1,14.0,98.0,42,14.286
+2018_2019,NU,laboratory summary,fluah3,0.0,98.0,42,0.0
+2018_2019,NU,laboratory summary,fluauns,0.0,98.0,42,0.0
+2018_2019,NU,laboratory summary,flub,0.0,98.0,42,0.0
+2018_2019,NU,laboratory summary,hcov,5.0,98.0,42,5.102
+2018_2019,NU,laboratory summary,hmpv,0.0,98.0,42,0.0
+2018_2019,NU,laboratory summary,rsv,0.0,98.0,42,0.0
+2018_2019,ON,regional,adv,267.0,31426.0,52,0.85
+2018_2019,ON,regional,evrv,1246.0,8343.0,52,14.935
+2018_2019,ON,regional,flu,6462.0,63009.0,52,10.256
+2018_2019,ON,regional,flua,6178.0,63009.0,52,9.805
+2018_2019,ON,regional,fluah1,1896.0,63009.0,52,3.009
+2018_2019,ON,regional,fluah3,1643.0,63009.0,52,2.608
+2018_2019,ON,regional,fluauns,2639.0,63009.0,52,4.188
+2018_2019,ON,regional,flub,284.0,63009.0,52,0.451
+2018_2019,ON,regional,hcov,258.0,7221.0,52,3.573
+2018_2019,ON,regional,hmpv,569.0,31217.0,52,1.823
+2018_2019,ON,regional,rsv,3239.0,61598.0,52,5.258
+2018_2019,PE,laboratory summary,adv,6.0,77.0,33,7.792
+2018_2019,PE,laboratory summary,evrv,22.0,86.0,34,25.581
+2018_2019,PE,laboratory summary,flu,281.0,1273.0,48,22.074
+2018_2019,PE,laboratory summary,flua,279.0,1273.0,48,21.917
+2018_2019,PE,laboratory summary,fluah1,221.0,1273.0,48,17.361
+2018_2019,PE,laboratory summary,fluah3,56.0,1273.0,48,4.399
+2018_2019,PE,laboratory summary,fluauns,2.0,1273.0,48,0.157
+2018_2019,PE,laboratory summary,flub,2.0,1273.0,48,0.157
+2018_2019,PE,laboratory summary,hcov,4.0,77.0,33,5.195
+2018_2019,PE,laboratory summary,hmpv,3.0,86.0,34,3.488
+2018_2019,PE,laboratory summary,rsv,140.0,1262.0,44,11.094
+2018_2019,QC,regional,adv,857.0,28011.0,51,3.06
+2018_2019,QC,regional,flu,16673.0,108014.0,51,15.436
+2018_2019,QC,regional,flua,15709.0,108014.0,51,14.543
+2018_2019,QC,regional,fluah1,0.0,108014.0,51,0.0
+2018_2019,QC,regional,fluah3,0.0,108014.0,51,0.0
+2018_2019,QC,regional,fluauns,15708.0,108014.0,51,14.543
+2018_2019,QC,regional,flub,964.0,108014.0,51,0.892
+2018_2019,QC,regional,hcov,723.0,26637.0,51,2.714
+2018_2019,QC,regional,hmpv,541.0,23563.0,42,2.296
+2018_2019,QC,regional,rsv,8378.0,100574.0,51,8.33
+2018_2019,SK,laboratory summary,adv,212.0,14797.0,52,1.433
+2018_2019,SK,laboratory summary,evrv,2190.0,14797.0,52,14.8
+2018_2019,SK,laboratory summary,flu,2231.0,15305.0,52,14.577
+2018_2019,SK,laboratory summary,flua,2093.0,15305.0,52,13.675
+2018_2019,SK,laboratory summary,fluah1,1056.0,15305.0,52,6.9
+2018_2019,SK,laboratory summary,fluah3,118.0,15305.0,52,0.771
+2018_2019,SK,laboratory summary,fluauns,919.0,15305.0,52,6.005
+2018_2019,SK,laboratory summary,flub,138.0,15305.0,52,0.902
+2018_2019,SK,laboratory summary,hcov,402.0,14797.0,52,2.717
+2018_2019,SK,laboratory summary,hmpv,311.0,14797.0,52,2.102
+2018_2019,SK,laboratory summary,rsv,978.0,15305.0,52,6.39
+2018_2019,YT,laboratory summary,flu,135.0,408.0,50,33.088
+2018_2019,YT,laboratory summary,flua,135.0,408.0,50,33.088
+2018_2019,YT,laboratory summary,fluah1,61.0,408.0,50,14.951
+2018_2019,YT,laboratory summary,fluah3,35.0,408.0,50,8.578
+2018_2019,YT,laboratory summary,fluauns,39.0,408.0,50,9.559
+2018_2019,YT,laboratory summary,flub,0.0,408.0,50,0.0
+2018_2019,YT,laboratory summary,rsv,18.0,387.0,49,4.651
+2019_2020,AB,laboratory summary,adv,818.0,102307.0,50,0.8
+2019_2020,AB,laboratory summary,evrv,6160.0,102307.0,50,6.021
+2019_2020,AB,laboratory summary,flu,6271.0,108254.0,50,5.793
+2019_2020,AB,laboratory summary,flua,3528.0,108254.0,50,3.259
+2019_2020,AB,laboratory summary,fluah1,1415.0,108254.0,50,1.307
+2019_2020,AB,laboratory summary,fluah3,1081.0,108254.0,50,0.999
+2019_2020,AB,laboratory summary,fluauns,1032.0,108254.0,50,0.953
+2019_2020,AB,laboratory summary,flub,2743.0,108254.0,50,2.534
+2019_2020,AB,laboratory summary,hcov,1480.0,102307.0,50,1.447
+2019_2020,AB,laboratory summary,hmpv,1174.0,102307.0,50,1.148
+2019_2020,AB,laboratory summary,rsv,0.0,102307.0,50,0.0
+2019_2020,BC,regional,adv,161.0,26370.0,49,0.611
+2019_2020,BC,regional,evrv,1764.0,25570.0,49,6.899
+2019_2020,BC,regional,flu,6068.0,89589.0,49,6.773
+2019_2020,BC,regional,flua,3782.0,89589.0,49,4.222
+2019_2020,BC,regional,fluah1,196.0,89589.0,49,0.219
+2019_2020,BC,regional,fluah3,136.0,89589.0,49,0.152
+2019_2020,BC,regional,fluauns,1797.0,89589.0,49,2.006
+2019_2020,BC,regional,flub,2286.0,89589.0,49,2.552
+2019_2020,BC,regional,hcov,274.0,9166.0,49,2.989
+2019_2020,BC,regional,hmpv,623.0,26060.0,49,2.391
+2019_2020,BC,regional,rsv,2512.0,89131.0,49,2.818
+2019_2020,Canada,national,adv,2590.0,257226.0,50,1.007
+2019_2020,Canada,national,evrv,14013.0,233024.0,50,6.014
+2019_2020,Canada,national,flu,48058.0,470483.0,50,10.215
+2019_2020,Canada,national,flua,28564.0,470483.0,50,6.071
+2019_2020,Canada,national,fluah1,4139.0,470483.0,50,0.88
+2019_2020,Canada,national,fluah3,1764.0,470483.0,50,0.375
+2019_2020,Canada,national,fluauns,21004.0,470483.0,50,4.464
+2019_2020,Canada,national,flub,19494.0,470483.0,50,4.143
+2019_2020,Canada,national,hcov,2565.0,185152.0,50,1.385
+2019_2020,Canada,national,hmpv,4178.0,254311.0,50,1.643
+2019_2020,Canada,national,rsv,16324.0,456353.0,50,3.577
+2019_2020,MB,laboratory summary,adv,53.0,3962.0,41,1.338
+2019_2020,MB,laboratory summary,evrv,501.0,3962.0,41,12.645
+2019_2020,MB,laboratory summary,flu,1777.0,18875.0,41,9.415
+2019_2020,MB,laboratory summary,flua,1097.0,18875.0,41,5.812
+2019_2020,MB,laboratory summary,fluah1,97.0,18875.0,41,0.514
+2019_2020,MB,laboratory summary,fluah3,60.0,18875.0,41,0.318
+2019_2020,MB,laboratory summary,fluauns,940.0,18875.0,41,4.98
+2019_2020,MB,laboratory summary,flub,680.0,18875.0,41,3.603
+2019_2020,MB,laboratory summary,hcov,57.0,2386.0,33,2.389
+2019_2020,MB,laboratory summary,hmpv,47.0,2856.0,41,1.646
+2019_2020,MB,laboratory summary,rsv,696.0,18935.0,41,3.676
+2019_2020,NB,laboratory summary,adv,63.0,2401.0,50,2.624
+2019_2020,NB,laboratory summary,evrv,282.0,2401.0,50,11.745
+2019_2020,NB,laboratory summary,flu,2148.0,11118.0,50,19.32
+2019_2020,NB,laboratory summary,flua,970.0,11118.0,50,8.725
+2019_2020,NB,laboratory summary,fluah1,57.0,11118.0,50,0.513
+2019_2020,NB,laboratory summary,fluah3,23.0,11118.0,50,0.207
+2019_2020,NB,laboratory summary,fluauns,890.0,11118.0,50,8.005
+2019_2020,NB,laboratory summary,flub,1178.0,11118.0,50,10.595
+2019_2020,NB,laboratory summary,hcov,117.0,6303.0,44,1.856
+2019_2020,NB,laboratory summary,hmpv,15.0,2401.0,50,0.625
+2019_2020,NB,laboratory summary,rsv,986.0,11056.0,50,8.918
+2019_2020,NL,laboratory summary,adv,105.0,18141.0,45,0.579
+2019_2020,NL,laboratory summary,evrv,338.0,18141.0,45,1.863
+2019_2020,NL,laboratory summary,flu,641.0,18141.0,45,3.533
+2019_2020,NL,laboratory summary,flua,189.0,18141.0,45,1.042
+2019_2020,NL,laboratory summary,fluah1,5.0,18141.0,45,0.028
+2019_2020,NL,laboratory summary,fluah3,19.0,18141.0,45,0.105
+2019_2020,NL,laboratory summary,fluauns,165.0,18141.0,45,0.91
+2019_2020,NL,laboratory summary,flub,452.0,18141.0,45,2.492
+2019_2020,NL,laboratory summary,hmpv,182.0,18141.0,45,1.003
+2019_2020,NL,laboratory summary,rsv,329.0,18141.0,45,1.814
+2019_2020,NS,laboratory summary,adv,12.0,700.0,49,1.714
+2019_2020,NS,laboratory summary,evrv,74.0,700.0,49,10.571
+2019_2020,NS,laboratory summary,flu,411.0,6537.0,50,6.287
+2019_2020,NS,laboratory summary,flua,188.0,6537.0,50,2.876
+2019_2020,NS,laboratory summary,fluah1,0.0,6537.0,50,0.0
+2019_2020,NS,laboratory summary,fluah3,0.0,6537.0,50,0.0
+2019_2020,NS,laboratory summary,fluauns,188.0,6537.0,50,2.876
+2019_2020,NS,laboratory summary,flub,223.0,6537.0,50,3.411
+2019_2020,NS,laboratory summary,hcov,13.0,703.0,49,1.849
+2019_2020,NS,laboratory summary,hmpv,10.0,696.0,49,1.437
+2019_2020,NS,laboratory summary,rsv,583.0,6638.0,50,8.783
+2019_2020,NT,laboratory summary,adv,11.0,1022.0,50,1.076
+2019_2020,NT,laboratory summary,evrv,128.0,1022.0,50,12.524
+2019_2020,NT,laboratory summary,flu,190.0,1030.0,50,18.447
+2019_2020,NT,laboratory summary,flua,65.0,1030.0,50,6.311
+2019_2020,NT,laboratory summary,fluah1,53.0,1030.0,50,5.146
+2019_2020,NT,laboratory summary,fluah3,11.0,1030.0,50,1.068
+2019_2020,NT,laboratory summary,fluauns,1.0,1030.0,50,0.097
+2019_2020,NT,laboratory summary,flub,125.0,1030.0,50,12.136
+2019_2020,NT,laboratory summary,hcov,47.0,1022.0,50,4.599
+2019_2020,NT,laboratory summary,hmpv,41.0,1022.0,50,4.012
+2019_2020,NT,laboratory summary,rsv,0.0,1022.0,50,0.0
+2019_2020,NU,laboratory summary,adv,29.0,1475.0,49,1.966
+2019_2020,NU,laboratory summary,evrv,226.0,1475.0,49,15.322
+2019_2020,NU,laboratory summary,flu,109.0,1477.0,49,7.38
+2019_2020,NU,laboratory summary,flua,48.0,1477.0,49,3.25
+2019_2020,NU,laboratory summary,fluah1,3.0,1477.0,49,0.203
+2019_2020,NU,laboratory summary,fluah3,8.0,1477.0,49,0.542
+2019_2020,NU,laboratory summary,fluauns,37.0,1477.0,49,2.505
+2019_2020,NU,laboratory summary,flub,61.0,1477.0,49,4.13
+2019_2020,NU,laboratory summary,hcov,20.0,201.0,47,9.95
+2019_2020,NU,laboratory summary,hmpv,28.0,1475.0,49,1.898
+2019_2020,NU,laboratory summary,rsv,51.0,1475.0,49,3.458
+2019_2020,ON,regional,adv,617.0,72376.0,50,0.852
+2019_2020,ON,regional,evrv,3221.0,67574.0,50,4.767
+2019_2020,ON,regional,flu,7671.0,95147.0,50,8.062
+2019_2020,ON,regional,flua,5437.0,95147.0,50,5.714
+2019_2020,ON,regional,fluah1,2312.0,95147.0,50,2.43
+2019_2020,ON,regional,fluah3,416.0,95147.0,50,0.437
+2019_2020,ON,regional,fluauns,2709.0,95147.0,50,2.847
+2019_2020,ON,regional,flub,2234.0,95147.0,50,2.348
+2019_2020,ON,regional,hcov,124.0,35352.0,50,0.351
+2019_2020,ON,regional,hmpv,1587.0,72709.0,50,2.183
+2019_2020,ON,regional,rsv,3444.0,94048.0,50,3.662
+2019_2020,PE,laboratory summary,adv,0.0,44.0,25,0.0
+2019_2020,PE,laboratory summary,evrv,12.0,44.0,25,27.273
+2019_2020,PE,laboratory summary,flu,176.0,1101.0,37,15.985
+2019_2020,PE,laboratory summary,flua,117.0,1101.0,37,10.627
+2019_2020,PE,laboratory summary,fluah1,0.0,1101.0,37,0.0
+2019_2020,PE,laboratory summary,fluah3,0.0,1101.0,37,0.0
+2019_2020,PE,laboratory summary,fluauns,117.0,1101.0,37,10.627
+2019_2020,PE,laboratory summary,flub,59.0,1101.0,37,5.359
+2019_2020,PE,laboratory summary,hcov,1.0,43.0,25,2.326
+2019_2020,PE,laboratory summary,hmpv,0.0,42.0,24,0.0
+2019_2020,PE,laboratory summary,rsv,118.0,1101.0,37,10.718
+2019_2020,QC,regional,adv,566.0,18600.0,48,3.043
+2019_2020,QC,regional,flu,20513.0,93174.0,48,22.016
+2019_2020,QC,regional,flua,11750.0,93174.0,48,12.611
+2019_2020,QC,regional,fluah1,0.0,93174.0,48,0.0
+2019_2020,QC,regional,fluah3,0.0,93174.0,48,0.0
+2019_2020,QC,regional,fluauns,11750.0,93174.0,48,12.611
+2019_2020,QC,regional,flub,8763.0,93174.0,48,9.405
+2019_2020,QC,regional,hcov,283.0,17841.0,48,1.586
+2019_2020,QC,regional,hmpv,263.0,16878.0,45,1.558
+2019_2020,QC,regional,rsv,6736.0,86459.0,48,7.791
+2019_2020,SK,laboratory summary,adv,155.0,9828.0,49,1.577
+2019_2020,SK,laboratory summary,evrv,1307.0,9828.0,49,13.299
+2019_2020,SK,laboratory summary,flu,1968.0,15318.0,48,12.848
+2019_2020,SK,laboratory summary,flua,1321.0,15318.0,48,8.624
+2019_2020,SK,laboratory summary,fluah1,0.0,15318.0,48,0.0
+2019_2020,SK,laboratory summary,fluah3,0.0,15318.0,48,0.0
+2019_2020,SK,laboratory summary,fluauns,1321.0,15318.0,48,8.624
+2019_2020,SK,laboratory summary,flub,647.0,15318.0,48,4.224
+2019_2020,SK,laboratory summary,hcov,149.0,9828.0,49,1.516
+2019_2020,SK,laboratory summary,hmpv,208.0,9724.0,49,2.139
+2019_2020,SK,laboratory summary,rsv,848.0,15318.0,48,5.536
+2019_2020,YT,laboratory summary,flu,115.0,10722.0,49,1.073
+2019_2020,YT,laboratory summary,flua,72.0,10722.0,49,0.672
+2019_2020,YT,laboratory summary,fluah1,1.0,10722.0,49,0.009
+2019_2020,YT,laboratory summary,fluah3,10.0,10722.0,49,0.093
+2019_2020,YT,laboratory summary,fluauns,57.0,10722.0,49,0.532
+2019_2020,YT,laboratory summary,flub,43.0,10722.0,49,0.401
+2019_2020,YT,laboratory summary,rsv,21.0,10722.0,49,0.196
+2020_2021,AB,laboratory summary,adv,147.0,68001.0,50,0.216
+2020_2021,AB,laboratory summary,evrv,6216.0,68001.0,50,9.141
+2020_2021,AB,laboratory summary,flu,10.0,123539.0,50,0.008
+2020_2021,AB,laboratory summary,flua,9.0,123539.0,50,0.007
+2020_2021,AB,laboratory summary,fluah1,3.0,123539.0,50,0.002
+2020_2021,AB,laboratory summary,fluah3,0.0,123539.0,50,0.0
+2020_2021,AB,laboratory summary,fluauns,6.0,123539.0,50,0.005
+2020_2021,AB,laboratory summary,flub,1.0,123539.0,50,0.001
+2020_2021,AB,laboratory summary,hcov,37.0,68001.0,50,0.054
+2020_2021,AB,laboratory summary,hmpv,5.0,68001.0,50,0.007
+2020_2021,AB,laboratory summary,rsv,0.0,68001.0,50,0.0
+2020_2021,BC,regional,adv,123.0,19417.0,53,0.633
+2020_2021,BC,regional,evrv,1706.0,18745.0,53,9.101
+2020_2021,BC,regional,flu,13.0,88313.0,53,0.015
+2020_2021,BC,regional,flua,7.0,88313.0,53,0.008
+2020_2021,BC,regional,fluah1,0.0,88313.0,53,0.0
+2020_2021,BC,regional,fluah3,0.0,88313.0,53,0.0
+2020_2021,BC,regional,fluauns,6.0,88313.0,53,0.007
+2020_2021,BC,regional,flub,6.0,88313.0,53,0.007
+2020_2021,BC,regional,hcov,26.0,14657.0,53,0.177
+2020_2021,BC,regional,hmpv,61.0,19143.0,53,0.319
+2020_2021,BC,regional,rsv,10.0,87810.0,53,0.011
+2020_2021,Canada,national,adv,876.0,156965.0,53,0.558
+2020_2021,Canada,national,evrv,13889.0,148502.0,53,9.353
+2020_2021,Canada,national,flu,74.0,607249.0,53,0.012
+2020_2021,Canada,national,flua,44.0,607249.0,53,0.007
+2020_2021,Canada,national,fluah1,5.0,607249.0,53,0.001
+2020_2021,Canada,national,fluah3,3.0,607249.0,53,0.0
+2020_2021,Canada,national,fluauns,33.0,607249.0,53,0.005
+2020_2021,Canada,national,flub,30.0,607249.0,53,0.005
+2020_2021,Canada,national,hcov,340.0,127847.0,53,0.266
+2020_2021,Canada,national,hmpv,101.0,158500.0,53,0.064
+2020_2021,Canada,national,rsv,980.0,372286.0,53,0.263
+2020_2021,MB,laboratory summary,adv,22.0,2759.0,50,0.797
+2020_2021,MB,laboratory summary,evrv,206.0,2759.0,50,7.466
+2020_2021,MB,laboratory summary,flu,6.0,68776.0,50,0.009
+2020_2021,MB,laboratory summary,flua,4.0,68776.0,50,0.006
+2020_2021,MB,laboratory summary,fluah1,0.0,68776.0,50,0.0
+2020_2021,MB,laboratory summary,fluah3,1.0,68776.0,50,0.001
+2020_2021,MB,laboratory summary,fluauns,3.0,68776.0,50,0.004
+2020_2021,MB,laboratory summary,flub,2.0,68776.0,50,0.003
+2020_2021,MB,laboratory summary,hcov,8.0,4233.0,50,0.189
+2020_2021,MB,laboratory summary,hmpv,1.0,4233.0,50,0.024
+2020_2021,MB,laboratory summary,rsv,67.0,68776.0,50,0.097
+2020_2021,NB,laboratory summary,adv,11.0,2052.0,50,0.536
+2020_2021,NB,laboratory summary,evrv,68.0,2052.0,50,3.314
+2020_2021,NB,laboratory summary,flu,1.0,50685.0,51,0.002
+2020_2021,NB,laboratory summary,flua,0.0,50685.0,51,0.0
+2020_2021,NB,laboratory summary,fluah1,0.0,50685.0,51,0.0
+2020_2021,NB,laboratory summary,fluah3,0.0,50685.0,51,0.0
+2020_2021,NB,laboratory summary,fluauns,0.0,50685.0,51,0.0
+2020_2021,NB,laboratory summary,flub,1.0,50685.0,51,0.002
+2020_2021,NB,laboratory summary,hcov,3.0,2007.0,47,0.149
+2020_2021,NB,laboratory summary,hmpv,0.0,2052.0,50,0.0
+2020_2021,NB,laboratory summary,rsv,0.0,16545.0,51,0.0
+2020_2021,NL,laboratory summary,adv,55.0,15236.0,51,0.361
+2020_2021,NL,laboratory summary,evrv,2264.0,14104.0,51,16.052
+2020_2021,NL,laboratory summary,flu,1.0,15349.0,51,0.007
+2020_2021,NL,laboratory summary,flua,1.0,15349.0,51,0.007
+2020_2021,NL,laboratory summary,fluah1,0.0,15349.0,51,0.0
+2020_2021,NL,laboratory summary,fluah3,0.0,15349.0,51,0.0
+2020_2021,NL,laboratory summary,fluauns,1.0,15349.0,51,0.007
+2020_2021,NL,laboratory summary,flub,0.0,15349.0,51,0.0
+2020_2021,NL,laboratory summary,hmpv,2.0,14761.0,51,0.014
+2020_2021,NL,laboratory summary,rsv,18.0,15348.0,51,0.117
+2020_2021,NS,laboratory summary,adv,18.0,1680.0,53,1.071
+2020_2021,NS,laboratory summary,evrv,98.0,1680.0,53,5.833
+2020_2021,NS,laboratory summary,flu,0.0,8887.0,53,0.0
+2020_2021,NS,laboratory summary,flua,0.0,8887.0,53,0.0
+2020_2021,NS,laboratory summary,fluah1,0.0,8887.0,53,0.0
+2020_2021,NS,laboratory summary,fluah3,0.0,8887.0,53,0.0
+2020_2021,NS,laboratory summary,fluauns,0.0,8887.0,53,0.0
+2020_2021,NS,laboratory summary,flub,0.0,8887.0,53,0.0
+2020_2021,NS,laboratory summary,hcov,0.0,1708.0,53,0.0
+2020_2021,NS,laboratory summary,hmpv,1.0,1680.0,53,0.06
+2020_2021,NS,laboratory summary,rsv,0.0,8900.0,53,0.0
+2020_2021,NT,laboratory summary,adv,4.0,535.0,49,0.748
+2020_2021,NT,laboratory summary,evrv,120.0,535.0,49,22.43
+2020_2021,NT,laboratory summary,flu,0.0,594.0,50,0.0
+2020_2021,NT,laboratory summary,flua,0.0,594.0,50,0.0
+2020_2021,NT,laboratory summary,fluah1,0.0,594.0,50,0.0
+2020_2021,NT,laboratory summary,fluah3,0.0,594.0,50,0.0
+2020_2021,NT,laboratory summary,fluauns,0.0,594.0,50,0.0
+2020_2021,NT,laboratory summary,flub,0.0,594.0,50,0.0
+2020_2021,NT,laboratory summary,hcov,1.0,535.0,49,0.187
+2020_2021,NT,laboratory summary,hmpv,1.0,535.0,49,0.187
+2020_2021,NT,laboratory summary,rsv,0.0,535.0,49,0.0
+2020_2021,NU,laboratory summary,adv,21.0,1164.0,36,1.804
+2020_2021,NU,laboratory summary,evrv,272.0,1164.0,36,23.368
+2020_2021,NU,laboratory summary,flu,0.0,1188.0,42,0.0
+2020_2021,NU,laboratory summary,flua,0.0,1188.0,42,0.0
+2020_2021,NU,laboratory summary,fluah1,0.0,1188.0,42,0.0
+2020_2021,NU,laboratory summary,fluah3,0.0,1188.0,42,0.0
+2020_2021,NU,laboratory summary,fluauns,0.0,1188.0,42,0.0
+2020_2021,NU,laboratory summary,flub,0.0,1188.0,42,0.0
+2020_2021,NU,laboratory summary,hcov,0.0,51.0,27,0.0
+2020_2021,NU,laboratory summary,hmpv,0.0,1164.0,36,0.0
+2020_2021,NU,laboratory summary,rsv,0.0,1164.0,36,0.0
+2020_2021,ON,regional,adv,106.0,31788.0,53,0.333
+2020_2021,ON,regional,evrv,2071.0,32583.0,53,6.356
+2020_2021,ON,regional,flu,26.0,47730.0,53,0.054
+2020_2021,ON,regional,flua,13.0,47730.0,53,0.027
+2020_2021,ON,regional,fluah1,2.0,47730.0,53,0.004
+2020_2021,ON,regional,fluah3,2.0,47730.0,53,0.004
+2020_2021,ON,regional,fluauns,9.0,47730.0,53,0.019
+2020_2021,ON,regional,flub,13.0,47730.0,53,0.027
+2020_2021,ON,regional,hcov,48.0,22417.0,52,0.214
+2020_2021,ON,regional,hmpv,12.0,32671.0,53,0.037
+2020_2021,ON,regional,rsv,42.0,47032.0,53,0.089
+2020_2021,PE,laboratory summary,adv,48.0,4424.0,51,1.085
+2020_2021,PE,laboratory summary,evrv,574.0,4423.0,51,12.978
+2020_2021,PE,laboratory summary,flu,0.0,4430.0,51,0.0
+2020_2021,PE,laboratory summary,flua,0.0,4430.0,51,0.0
+2020_2021,PE,laboratory summary,fluah1,0.0,4430.0,51,0.0
+2020_2021,PE,laboratory summary,fluah3,0.0,4430.0,51,0.0
+2020_2021,PE,laboratory summary,fluauns,0.0,4430.0,51,0.0
+2020_2021,PE,laboratory summary,flub,0.0,4430.0,51,0.0
+2020_2021,PE,laboratory summary,hcov,1.0,4422.0,50,0.023
+2020_2021,PE,laboratory summary,hmpv,0.0,4424.0,51,0.0
+2020_2021,PE,laboratory summary,rsv,5.0,4430.0,51,0.113
+2020_2021,QC,regional,adv,303.0,7462.0,52,4.061
+2020_2021,QC,regional,flu,6.0,32822.0,52,0.018
+2020_2021,QC,regional,flua,4.0,32822.0,52,0.012
+2020_2021,QC,regional,fluah1,0.0,32822.0,52,0.0
+2020_2021,QC,regional,fluah3,0.0,32822.0,52,0.0
+2020_2021,QC,regional,fluauns,4.0,32822.0,52,0.012
+2020_2021,QC,regional,flub,2.0,32822.0,52,0.006
+2020_2021,QC,regional,hcov,200.0,7369.0,52,2.714
+2020_2021,QC,regional,hmpv,14.0,7389.0,52,0.189
+2020_2021,QC,regional,rsv,829.0,20974.0,52,3.953
+2020_2021,SK,laboratory summary,adv,18.0,2447.0,53,0.736
+2020_2021,SK,laboratory summary,evrv,294.0,2447.0,53,12.015
+2020_2021,SK,laboratory summary,flu,2.0,157635.0,53,0.001
+2020_2021,SK,laboratory summary,flua,1.0,157635.0,53,0.001
+2020_2021,SK,laboratory summary,fluah1,0.0,157635.0,53,0.0
+2020_2021,SK,laboratory summary,fluah3,0.0,157635.0,53,0.0
+2020_2021,SK,laboratory summary,fluauns,1.0,157635.0,53,0.001
+2020_2021,SK,laboratory summary,flub,1.0,157635.0,53,0.001
+2020_2021,SK,laboratory summary,hcov,16.0,2447.0,53,0.654
+2020_2021,SK,laboratory summary,hmpv,4.0,2447.0,53,0.163
+2020_2021,SK,laboratory summary,rsv,4.0,25695.0,53,0.016
+2020_2021,YT,laboratory summary,flu,9.0,7301.0,44,0.123
+2020_2021,YT,laboratory summary,flua,5.0,7301.0,44,0.068
+2020_2021,YT,laboratory summary,fluah1,0.0,7301.0,44,0.0
+2020_2021,YT,laboratory summary,fluah3,0.0,7301.0,44,0.0
+2020_2021,YT,laboratory summary,fluauns,3.0,7301.0,44,0.041
+2020_2021,YT,laboratory summary,flub,4.0,7301.0,44,0.055
+2020_2021,YT,laboratory summary,rsv,5.0,7076.0,43,0.071
+2021_2022,AB,laboratory summary,adv,433.0,38299.0,51,1.131
+2021_2022,AB,laboratory summary,evrv,4341.0,38155.0,51,11.377
+2021_2022,AB,laboratory summary,flu,2764.0,97765.0,51,2.827
+2021_2022,AB,laboratory summary,flua,2761.0,97765.0,51,2.824
+2021_2022,AB,laboratory summary,fluah1,7.0,97765.0,51,0.007
+2021_2022,AB,laboratory summary,fluah3,887.0,97765.0,51,0.907
+2021_2022,AB,laboratory summary,fluauns,1867.0,97765.0,51,1.91
+2021_2022,AB,laboratory summary,flub,3.0,97765.0,51,0.003
+2021_2022,AB,laboratory summary,hcov,1365.0,38307.0,51,3.563
+2021_2022,AB,laboratory summary,hmpv,540.0,38299.0,51,1.41
+2021_2022,AB,laboratory summary,rsv,3287.0,48221.0,51,6.817
+2021_2022,BC,regional,adv,513.0,24664.0,50,2.08
+2021_2022,BC,regional,evrv,3534.0,24140.0,50,14.64
+2021_2022,BC,regional,flu,1458.0,196450.0,50,0.742
+2021_2022,BC,regional,flua,1368.0,196450.0,50,0.696
+2021_2022,BC,regional,fluah1,7.0,196450.0,50,0.004
+2021_2022,BC,regional,fluah3,393.0,196450.0,50,0.2
+2021_2022,BC,regional,fluauns,7.0,196450.0,50,0.004
+2021_2022,BC,regional,flub,90.0,196450.0,50,0.046
+2021_2022,BC,regional,hcov,759.0,24105.0,50,3.149
+2021_2022,BC,regional,hmpv,558.0,24649.0,50,2.264
+2021_2022,BC,regional,rsv,7282.0,190052.0,50,3.832
+2021_2022,Canada,national,adv,3343.0,181908.0,51,1.838
+2021_2022,Canada,national,evrv,21197.0,162797.0,51,13.021
+2021_2022,Canada,national,flu,15627.0,686285.0,51,2.277
+2021_2022,Canada,national,flua,15407.0,686285.0,51,2.245
+2021_2022,Canada,national,fluah1,64.0,686285.0,51,0.009
+2021_2022,Canada,national,fluah3,2429.0,686285.0,51,0.354
+2021_2022,Canada,national,fluauns,12038.0,686285.0,51,1.754
+2021_2022,Canada,national,flub,220.0,686285.0,51,0.032
+2021_2022,Canada,national,hcov,4667.0,137690.0,51,3.389
+2021_2022,Canada,national,hmpv,3504.0,182521.0,51,1.92
+2021_2022,Canada,national,rsv,28093.0,593292.0,51,4.735
+2021_2022,MB,laboratory summary,adv,90.0,4460.0,51,2.018
+2021_2022,MB,laboratory summary,evrv,643.0,4460.0,51,14.417
+2021_2022,MB,laboratory summary,flu,565.0,58677.0,51,0.963
+2021_2022,MB,laboratory summary,flua,565.0,58677.0,51,0.963
+2021_2022,MB,laboratory summary,fluah1,1.0,58677.0,51,0.002
+2021_2022,MB,laboratory summary,fluah3,69.0,58677.0,51,0.118
+2021_2022,MB,laboratory summary,fluauns,495.0,58677.0,51,0.844
+2021_2022,MB,laboratory summary,flub,0.0,58677.0,51,0.0
+2021_2022,MB,laboratory summary,hcov,103.0,5771.0,51,1.785
+2021_2022,MB,laboratory summary,hmpv,100.0,5960.0,51,1.678
+2021_2022,MB,laboratory summary,rsv,1382.0,58677.0,51,2.355
+2021_2022,NB,laboratory summary,adv,66.0,2907.0,46,2.27
+2021_2022,NB,laboratory summary,evrv,160.0,2914.0,47,5.491
+2021_2022,NB,laboratory summary,flu,495.0,20052.0,47,2.469
+2021_2022,NB,laboratory summary,flua,495.0,20052.0,47,2.469
+2021_2022,NB,laboratory summary,fluah1,0.0,20052.0,47,0.0
+2021_2022,NB,laboratory summary,fluah3,111.0,20052.0,47,0.554
+2021_2022,NB,laboratory summary,fluauns,384.0,20052.0,47,1.915
+2021_2022,NB,laboratory summary,flub,0.0,20052.0,47,0.0
+2021_2022,NB,laboratory summary,hcov,22.0,2914.0,47,0.755
+2021_2022,NB,laboratory summary,hmpv,48.0,2914.0,47,1.647
+2021_2022,NB,laboratory summary,rsv,351.0,12622.0,47,2.781
+2021_2022,NL,laboratory summary,adv,48.0,12264.0,45,0.391
+2021_2022,NL,laboratory summary,evrv,1923.0,12316.0,45,15.614
+2021_2022,NL,laboratory summary,flu,172.0,12257.0,45,1.403
+2021_2022,NL,laboratory summary,flua,172.0,12257.0,45,1.403
+2021_2022,NL,laboratory summary,fluah1,0.0,12257.0,45,0.0
+2021_2022,NL,laboratory summary,fluah3,0.0,12257.0,45,0.0
+2021_2022,NL,laboratory summary,fluauns,172.0,12257.0,45,1.403
+2021_2022,NL,laboratory summary,flub,0.0,12257.0,45,0.0
+2021_2022,NL,laboratory summary,hcov,22.0,1712.0,10,1.285
+2021_2022,NL,laboratory summary,hmpv,89.0,12253.0,45,0.726
+2021_2022,NL,laboratory summary,rsv,195.0,12256.0,45,1.591
+2021_2022,NS,laboratory summary,adv,29.0,2058.0,51,1.409
+2021_2022,NS,laboratory summary,evrv,194.0,2058.0,51,9.427
+2021_2022,NS,laboratory summary,flu,427.0,27246.0,51,1.567
+2021_2022,NS,laboratory summary,flua,418.0,27246.0,51,1.534
+2021_2022,NS,laboratory summary,fluah1,0.0,27246.0,51,0.0
+2021_2022,NS,laboratory summary,fluah3,1.0,27246.0,51,0.004
+2021_2022,NS,laboratory summary,fluauns,417.0,27246.0,51,1.53
+2021_2022,NS,laboratory summary,flub,9.0,27246.0,51,0.033
+2021_2022,NS,laboratory summary,hcov,43.0,2058.0,51,2.089
+2021_2022,NS,laboratory summary,hmpv,63.0,2058.0,51,3.061
+2021_2022,NS,laboratory summary,rsv,398.0,26943.0,51,1.477
+2021_2022,NT,laboratory summary,adv,1.0,103.0,40,0.971
+2021_2022,NT,laboratory summary,evrv,257.0,1884.0,46,13.641
+2021_2022,NT,laboratory summary,flu,203.0,1959.0,46,10.362
+2021_2022,NT,laboratory summary,flua,203.0,1959.0,46,10.362
+2021_2022,NT,laboratory summary,fluah1,0.0,1959.0,46,0.0
+2021_2022,NT,laboratory summary,fluah3,200.0,1959.0,46,10.209
+2021_2022,NT,laboratory summary,fluauns,3.0,1959.0,46,0.153
+2021_2022,NT,laboratory summary,flub,0.0,1959.0,46,0.0
+2021_2022,NT,laboratory summary,hcov,1.0,103.0,40,0.971
+2021_2022,NT,laboratory summary,hmpv,0.0,103.0,40,0.0
+2021_2022,NT,laboratory summary,rsv,225.0,1903.0,46,11.823
+2021_2022,NU,laboratory summary,adv,1.0,9.0,5,11.111
+2021_2022,NU,laboratory summary,evrv,4.0,9.0,5,44.444
+2021_2022,NU,laboratory summary,flu,108.0,10893.0,41,0.991
+2021_2022,NU,laboratory summary,flua,108.0,10893.0,41,0.991
+2021_2022,NU,laboratory summary,fluah1,0.0,10893.0,41,0.0
+2021_2022,NU,laboratory summary,fluah3,100.0,10893.0,41,0.918
+2021_2022,NU,laboratory summary,fluauns,8.0,10893.0,41,0.073
+2021_2022,NU,laboratory summary,flub,0.0,10893.0,41,0.0
+2021_2022,NU,laboratory summary,hcov,0.0,6.0,5,0.0
+2021_2022,NU,laboratory summary,hmpv,0.0,9.0,5,0.0
+2021_2022,NU,laboratory summary,rsv,266.0,10878.0,40,2.445
+2021_2022,ON,regional,adv,1093.0,67133.0,51,1.628
+2021_2022,ON,regional,evrv,8413.0,67019.0,51,12.553
+2021_2022,ON,regional,flu,1012.0,98266.0,51,1.03
+2021_2022,ON,regional,flua,1005.0,98266.0,51,1.023
+2021_2022,ON,regional,fluah1,4.0,98266.0,51,0.004
+2021_2022,ON,regional,fluah3,562.0,98266.0,51,0.572
+2021_2022,ON,regional,fluauns,533.0,98266.0,51,0.542
+2021_2022,ON,regional,flub,7.0,98266.0,51,0.007
+2021_2022,ON,regional,hcov,1481.0,34467.0,51,4.297
+2021_2022,ON,regional,hmpv,1101.0,66787.0,51,1.649
+2021_2022,ON,regional,rsv,5392.0,97785.0,51,5.514
+2021_2022,PE,laboratory summary,adv,73.0,2719.0,49,2.685
+2021_2022,PE,laboratory summary,evrv,633.0,2719.0,49,23.281
+2021_2022,PE,laboratory summary,flu,65.0,2719.0,49,2.391
+2021_2022,PE,laboratory summary,flua,65.0,2719.0,49,2.391
+2021_2022,PE,laboratory summary,fluah1,0.0,2719.0,49,0.0
+2021_2022,PE,laboratory summary,fluah3,48.0,2719.0,49,1.765
+2021_2022,PE,laboratory summary,fluauns,17.0,2719.0,49,0.625
+2021_2022,PE,laboratory summary,flub,0.0,2719.0,49,0.0
+2021_2022,PE,laboratory summary,hcov,132.0,2719.0,49,4.855
+2021_2022,PE,laboratory summary,hmpv,127.0,2719.0,49,4.671
+2021_2022,PE,laboratory summary,rsv,262.0,2719.0,49,9.636
+2021_2022,QC,regional,adv,839.0,20169.0,50,4.16
+2021_2022,QC,regional,flu,7608.0,125142.0,50,6.079
+2021_2022,QC,regional,flua,7503.0,125142.0,50,5.996
+2021_2022,QC,regional,fluah1,45.0,125142.0,50,0.036
+2021_2022,QC,regional,fluah3,15.0,125142.0,50,0.012
+2021_2022,QC,regional,fluauns,7443.0,125142.0,50,5.948
+2021_2022,QC,regional,flub,105.0,125142.0,50,0.084
+2021_2022,QC,regional,hcov,432.0,18429.0,50,2.344
+2021_2022,QC,regional,hmpv,658.0,19647.0,50,3.349
+2021_2022,QC,regional,rsv,7248.0,96306.0,50,7.526
+2021_2022,SK,laboratory summary,adv,154.0,7072.0,51,2.178
+2021_2022,SK,laboratory summary,evrv,1084.0,7072.0,51,15.328
+2021_2022,SK,laboratory summary,flu,731.0,29786.0,51,2.454
+2021_2022,SK,laboratory summary,flua,731.0,29786.0,51,2.454
+2021_2022,SK,laboratory summary,fluah1,0.0,29786.0,51,0.0
+2021_2022,SK,laboratory summary,fluah3,40.0,29786.0,51,0.134
+2021_2022,SK,laboratory summary,fluauns,691.0,29786.0,51,2.32
+2021_2022,SK,laboratory summary,flub,0.0,29786.0,51,0.0
+2021_2022,SK,laboratory summary,hcov,306.0,7060.0,51,4.334
+2021_2022,SK,laboratory summary,hmpv,220.0,7072.0,51,3.111
+2021_2022,SK,laboratory summary,rsv,1570.0,29795.0,51,5.269
+2021_2022,YT,laboratory summary,flu,18.0,5049.0,50,0.357
+2021_2022,YT,laboratory summary,flua,12.0,5049.0,50,0.238
+2021_2022,YT,laboratory summary,fluah1,0.0,5049.0,50,0.0
+2021_2022,YT,laboratory summary,fluah3,2.0,5049.0,50,0.04
+2021_2022,YT,laboratory summary,fluauns,1.0,5049.0,50,0.02
+2021_2022,YT,laboratory summary,flub,6.0,5049.0,50,0.119
+2021_2022,YT,laboratory summary,rsv,231.0,5121.0,50,4.511
+2022_2023,AB,laboratory summary,adv,755.0,49012.0,51,1.54
+2022_2023,AB,laboratory summary,evrv,4940.0,48337.0,51,10.22
+2022_2023,AB,laboratory summary,flu,8933.0,133785.0,51,6.677
+2022_2023,AB,laboratory summary,flua,8253.0,133785.0,51,6.169
+2022_2023,AB,laboratory summary,fluah1,772.0,133785.0,51,0.577
+2022_2023,AB,laboratory summary,fluah3,5540.0,133785.0,51,4.141
+2022_2023,AB,laboratory summary,fluauns,1941.0,133785.0,51,1.451
+2022_2023,AB,laboratory summary,flub,680.0,133785.0,51,0.508
+2022_2023,AB,laboratory summary,hcov,1177.0,49030.0,51,2.401
+2022_2023,AB,laboratory summary,hmpv,996.0,48468.0,51,2.055
+2022_2023,AB,laboratory summary,rsv,5726.0,119471.0,51,4.793
+2022_2023,AB,laboratory summary,sarscov2,17160.0,165806.0,39,10.349
+2022_2023,BC,regional,adv,1148.0,29468.0,51,3.896
+2022_2023,BC,regional,evrv,4681.0,28377.0,51,16.496
+2022_2023,BC,regional,flu,7679.0,137080.0,51,5.602
+2022_2023,BC,regional,flua,7393.0,137080.0,51,5.393
+2022_2023,BC,regional,fluah1,353.0,137080.0,51,0.258
+2022_2023,BC,regional,fluah3,2220.0,137080.0,51,1.619
+2022_2023,BC,regional,fluauns,46.0,137080.0,51,0.034
+2022_2023,BC,regional,flub,286.0,137080.0,51,0.209
+2022_2023,BC,regional,hcov,977.0,28400.0,51,3.44
+2022_2023,BC,regional,hmpv,1060.0,29468.0,51,3.597
+2022_2023,BC,regional,rsv,6925.0,129254.0,51,5.358
+2022_2023,BC,regional,sarscov2,16729.0,138747.0,38,12.057
+2022_2023,Canada,national,adv,8922.0,369761.0,51,2.413
+2022_2023,Canada,national,evrv,31253.0,327187.0,51,9.552
+2022_2023,Canada,national,flu,62351.0,1064555.0,51,5.857
+2022_2023,Canada,national,flua,57333.0,1064555.0,51,5.386
+2022_2023,Canada,national,fluah1,1629.0,1064555.0,51,0.153
+2022_2023,Canada,national,fluah3,14315.0,1064555.0,51,1.345
+2022_2023,Canada,national,fluauns,38149.0,1064555.0,51,3.584
+2022_2023,Canada,national,flub,5018.0,1064555.0,51,0.471
+2022_2023,Canada,national,hcov,8922.0,308875.0,51,2.889
+2022_2023,Canada,national,hmpv,9085.0,369532.0,51,2.459
+2022_2023,Canada,national,rsv,40858.0,935042.0,51,4.37
+2022_2023,Canada,national,sarscov2,194845.0,1711409.0,39,11.385
+2022_2023,MB,laboratory summary,adv,187.0,5942.0,49,3.147
+2022_2023,MB,laboratory summary,evrv,1086.0,5959.0,49,18.225
+2022_2023,MB,laboratory summary,flu,2047.0,49614.0,49,4.126
+2022_2023,MB,laboratory summary,flua,1968.0,49614.0,49,3.967
+2022_2023,MB,laboratory summary,fluah1,19.0,49614.0,49,0.038
+2022_2023,MB,laboratory summary,fluah3,186.0,49614.0,49,0.375
+2022_2023,MB,laboratory summary,fluauns,1763.0,49614.0,49,3.553
+2022_2023,MB,laboratory summary,flub,79.0,49614.0,49,0.159
+2022_2023,MB,laboratory summary,hcov,205.0,6487.0,49,3.16
+2022_2023,MB,laboratory summary,hmpv,213.0,6487.0,49,3.283
+2022_2023,MB,laboratory summary,rsv,1615.0,49614.0,49,3.255
+2022_2023,MB,laboratory summary,sarscov2,5903.0,53929.0,38,10.946
+2022_2023,NB,laboratory summary,adv,285.0,4158.0,49,6.854
+2022_2023,NB,laboratory summary,evrv,762.0,4158.0,49,18.326
+2022_2023,NB,laboratory summary,flu,4186.0,50712.0,49,8.254
+2022_2023,NB,laboratory summary,flua,4155.0,50712.0,49,8.193
+2022_2023,NB,laboratory summary,fluah1,19.0,50712.0,49,0.037
+2022_2023,NB,laboratory summary,fluah3,125.0,50712.0,49,0.246
+2022_2023,NB,laboratory summary,fluauns,4011.0,50712.0,49,7.909
+2022_2023,NB,laboratory summary,flub,31.0,50712.0,49,0.061
+2022_2023,NB,laboratory summary,hcov,227.0,4158.0,49,5.459
+2022_2023,NB,laboratory summary,hmpv,181.0,4158.0,49,4.353
+2022_2023,NB,laboratory summary,rsv,1901.0,43365.0,49,4.384
+2022_2023,NB,laboratory summary,sarscov2,9263.0,68865.0,39,13.451
+2022_2023,NL,laboratory summary,adv,320.0,14755.0,51,2.169
+2022_2023,NL,laboratory summary,evrv,1428.0,14755.0,51,9.678
+2022_2023,NL,laboratory summary,flu,769.0,14755.0,51,5.212
+2022_2023,NL,laboratory summary,flua,758.0,14755.0,51,5.137
+2022_2023,NL,laboratory summary,fluah1,0.0,14755.0,51,0.0
+2022_2023,NL,laboratory summary,fluah3,209.0,14755.0,51,1.416
+2022_2023,NL,laboratory summary,fluauns,549.0,14755.0,51,3.721
+2022_2023,NL,laboratory summary,flub,11.0,14755.0,51,0.075
+2022_2023,NL,laboratory summary,hcov,544.0,14755.0,51,3.687
+2022_2023,NL,laboratory summary,hmpv,368.0,14755.0,51,2.494
+2022_2023,NL,laboratory summary,rsv,637.0,14755.0,51,4.317
+2022_2023,NL,laboratory summary,sarscov2,2700.0,19081.0,39,14.15
+2022_2023,NS,laboratory summary,adv,66.0,1652.0,51,3.995
+2022_2023,NS,laboratory summary,evrv,330.0,1652.0,51,19.976
+2022_2023,NS,laboratory summary,flu,3375.0,46884.0,51,7.199
+2022_2023,NS,laboratory summary,flua,3360.0,46884.0,51,7.167
+2022_2023,NS,laboratory summary,fluah1,0.0,46884.0,51,0.0
+2022_2023,NS,laboratory summary,fluah3,4.0,46884.0,51,0.009
+2022_2023,NS,laboratory summary,fluauns,3356.0,46884.0,51,7.158
+2022_2023,NS,laboratory summary,flub,15.0,46884.0,51,0.032
+2022_2023,NS,laboratory summary,hcov,63.0,1652.0,51,3.814
+2022_2023,NS,laboratory summary,hmpv,44.0,1652.0,51,2.663
+2022_2023,NS,laboratory summary,rsv,2285.0,46875.0,51,4.875
+2022_2023,NS,laboratory summary,sarscov2,13887.0,80692.0,38,17.21
+2022_2023,NT,laboratory summary,evrv,329.0,1407.0,45,23.383
+2022_2023,NT,laboratory summary,flu,129.0,1407.0,45,9.168
+2022_2023,NT,laboratory summary,flua,124.0,1407.0,45,8.813
+2022_2023,NT,laboratory summary,fluah1,10.0,1407.0,45,0.711
+2022_2023,NT,laboratory summary,fluah3,114.0,1407.0,45,8.102
+2022_2023,NT,laboratory summary,fluauns,0.0,1407.0,45,0.0
+2022_2023,NT,laboratory summary,flub,5.0,1407.0,45,0.355
+2022_2023,NT,laboratory summary,rsv,100.0,1407.0,45,7.107
+2022_2023,NT,laboratory summary,sarscov2,107.0,1026.0,33,10.429
+2022_2023,NU,laboratory summary,flu,352.0,3230.0,47,10.898
+2022_2023,NU,laboratory summary,flua,189.0,3230.0,47,5.851
+2022_2023,NU,laboratory summary,fluah1,7.0,3230.0,47,0.217
+2022_2023,NU,laboratory summary,fluah3,177.0,3230.0,47,5.48
+2022_2023,NU,laboratory summary,fluauns,5.0,3230.0,47,0.155
+2022_2023,NU,laboratory summary,flub,163.0,3230.0,47,5.046
+2022_2023,NU,laboratory summary,rsv,123.0,3230.0,47,3.808
+2022_2023,NU,laboratory summary,sarscov2,197.0,3473.0,36,5.672
+2022_2023,ON,regional,adv,3277.0,205305.0,51,1.596
+2022_2023,ON,regional,evrv,15308.0,205572.0,51,7.447
+2022_2023,ON,regional,flu,12179.0,301926.0,51,4.034
+2022_2023,ON,regional,flua,10872.0,301926.0,51,3.601
+2022_2023,ON,regional,fluah1,446.0,301926.0,51,0.148
+2022_2023,ON,regional,fluah3,5583.0,301926.0,51,1.849
+2022_2023,ON,regional,fluauns,6448.0,301926.0,51,2.136
+2022_2023,ON,regional,flub,1307.0,301926.0,51,0.433
+2022_2023,ON,regional,hcov,3930.0,146499.0,51,2.683
+2022_2023,ON,regional,hmpv,4190.0,205616.0,51,2.038
+2022_2023,ON,regional,rsv,10177.0,304472.0,51,3.343
+2022_2023,ON,regional,sarscov2,51016.0,435610.0,39,11.711
+2022_2023,PE,laboratory summary,adv,81.0,1182.0,51,6.853
+2022_2023,PE,laboratory summary,evrv,346.0,1182.0,51,29.272
+2022_2023,PE,laboratory summary,flu,338.0,3882.0,51,8.707
+2022_2023,PE,laboratory summary,flua,334.0,3882.0,51,8.604
+2022_2023,PE,laboratory summary,fluah1,1.0,3882.0,51,0.026
+2022_2023,PE,laboratory summary,fluah3,115.0,3882.0,51,2.962
+2022_2023,PE,laboratory summary,fluauns,218.0,3882.0,51,5.616
+2022_2023,PE,laboratory summary,flub,4.0,3882.0,51,0.103
+2022_2023,PE,laboratory summary,hcov,32.0,1182.0,51,2.707
+2022_2023,PE,laboratory summary,hmpv,38.0,1182.0,51,3.215
+2022_2023,PE,laboratory summary,rsv,362.0,3882.0,51,9.325
+2022_2023,PE,laboratory summary,sarscov2,2841.0,17012.0,39,16.7
+2022_2023,QC,regional,adv,2321.0,42501.0,50,5.461
+2022_2023,QC,regional,flu,19077.0,280203.0,50,6.808
+2022_2023,QC,regional,flua,16724.0,280203.0,50,5.969
+2022_2023,QC,regional,fluah1,0.0,280203.0,50,0.0
+2022_2023,QC,regional,fluah3,19.0,280203.0,50,0.007
+2022_2023,QC,regional,fluauns,16705.0,280203.0,50,5.962
+2022_2023,QC,regional,flub,2353.0,280203.0,50,0.84
+2022_2023,QC,regional,hcov,1293.0,40927.0,50,3.159
+2022_2023,QC,regional,hmpv,1376.0,41959.0,50,3.279
+2022_2023,QC,regional,rsv,9207.0,182948.0,50,5.033
+2022_2023,QC,regional,sarscov2,68532.0,627651.0,39,10.919
+2022_2023,SK,laboratory summary,adv,482.0,15786.0,50,3.053
+2022_2023,SK,laboratory summary,evrv,2043.0,15788.0,50,12.94
+2022_2023,SK,laboratory summary,flu,3177.0,40101.0,50,7.922
+2022_2023,SK,laboratory summary,flua,3102.0,40101.0,50,7.735
+2022_2023,SK,laboratory summary,fluah1,0.0,40101.0,50,0.0
+2022_2023,SK,laboratory summary,fluah3,0.0,40101.0,50,0.0
+2022_2023,SK,laboratory summary,fluauns,3102.0,40101.0,50,7.735
+2022_2023,SK,laboratory summary,flub,75.0,40101.0,50,0.187
+2022_2023,SK,laboratory summary,hcov,474.0,15785.0,50,3.003
+2022_2023,SK,laboratory summary,hmpv,619.0,15787.0,50,3.921
+2022_2023,SK,laboratory summary,rsv,1746.0,34790.0,49,5.019
+2022_2023,SK,laboratory summary,sarscov2,6296.0,96734.0,38,6.509
+2022_2023,YT,laboratory summary,flu,110.0,976.0,50,11.27
+2022_2023,YT,laboratory summary,flua,101.0,976.0,50,10.348
+2022_2023,YT,laboratory summary,fluah1,2.0,976.0,50,0.205
+2022_2023,YT,laboratory summary,fluah3,23.0,976.0,50,2.357
+2022_2023,YT,laboratory summary,fluauns,5.0,976.0,50,0.512
+2022_2023,YT,laboratory summary,flub,9.0,976.0,50,0.922
+2022_2023,YT,laboratory summary,rsv,54.0,979.0,50,5.516
+2022_2023,YT,laboratory summary,sarscov2,214.0,2783.0,38,7.69
+2023_2024,AB,laboratory summary,adv,455.0,45611.0,51,0.998
+2023_2024,AB,laboratory summary,evrv,4202.0,45062.0,51,9.325
+2023_2024,AB,laboratory summary,flu,13214.0,162934.0,51,8.11
+2023_2024,AB,laboratory summary,flua,8987.0,162934.0,51,5.516
+2023_2024,AB,laboratory summary,fluah1,6945.0,162934.0,51,4.262
+2023_2024,AB,laboratory summary,fluah3,680.0,162934.0,51,0.417
+2023_2024,AB,laboratory summary,fluauns,518.0,162934.0,51,0.318
+2023_2024,AB,laboratory summary,flub,4227.0,162934.0,51,2.594
+2023_2024,AB,laboratory summary,hcov,1202.0,45618.0,51,2.635
+2023_2024,AB,laboratory summary,hmpv,50.0,41201.0,50,0.121
+2023_2024,AB,laboratory summary,rsv,5201.0,152923.0,51,3.401
+2023_2024,AB,laboratory summary,sarscov2,24367.0,223118.0,48,10.921
+2023_2024,BC,regional,adv,1036.0,37634.0,50,2.753
+2023_2024,BC,regional,evrv,5313.0,36184.0,50,14.683
+2023_2024,BC,regional,flu,9141.0,158620.0,50,5.763
+2023_2024,BC,regional,flua,7809.0,158620.0,50,4.923
+2023_2024,BC,regional,fluah1,1924.0,158620.0,50,1.213
+2023_2024,BC,regional,fluah3,526.0,158620.0,50,0.332
+2023_2024,BC,regional,fluauns,116.0,158620.0,50,0.073
+2023_2024,BC,regional,flub,1332.0,158620.0,50,0.84
+2023_2024,BC,regional,hcov,976.0,36129.0,50,2.701
+2023_2024,BC,regional,hmpv,1331.0,37634.0,50,3.537
+2023_2024,BC,regional,rsv,5000.0,153658.0,50,3.254
+2023_2024,BC,regional,sarscov2,23112.0,170269.0,50,13.574
+2023_2024,Canada,national,adv,6257.0,439420.0,51,1.424
+2023_2024,Canada,national,evrv,33514.0,369045.0,51,9.081
+2023_2024,Canada,national,flu,88157.0,1251382.0,51,7.045
+2023_2024,Canada,national,flua,66848.0,1251382.0,51,5.342
+2023_2024,Canada,national,fluah1,13511.0,1251382.0,51,1.08
+2023_2024,Canada,national,fluah3,3293.0,1251382.0,51,0.263
+2023_2024,Canada,national,fluauns,45271.0,1251382.0,51,3.618
+2023_2024,Canada,national,flub,21309.0,1251382.0,51,1.703
+2023_2024,Canada,national,hcov,10301.0,361498.0,51,2.85
+2023_2024,Canada,national,hmpv,9136.0,440405.0,51,2.074
+2023_2024,Canada,national,rsv,38026.0,1123047.0,51,3.386
+2023_2024,Canada,national,sarscov2,209751.0,1620812.0,51,12.941
+2023_2024,MB,laboratory summary,adv,159.0,4403.0,51,3.611
+2023_2024,MB,laboratory summary,evrv,886.0,4403.0,51,20.123
+2023_2024,MB,laboratory summary,flu,2676.0,48598.0,51,5.506
+2023_2024,MB,laboratory summary,flua,1919.0,48598.0,51,3.949
+2023_2024,MB,laboratory summary,fluah1,17.0,48598.0,51,0.035
+2023_2024,MB,laboratory summary,fluah3,121.0,48598.0,51,0.249
+2023_2024,MB,laboratory summary,fluauns,1781.0,48598.0,51,3.665
+2023_2024,MB,laboratory summary,flub,757.0,48598.0,51,1.558
+2023_2024,MB,laboratory summary,hcov,160.0,5556.0,51,2.88
+2023_2024,MB,laboratory summary,hmpv,176.0,5556.0,51,3.168
+2023_2024,MB,laboratory summary,rsv,1330.0,48598.0,51,2.737
+2023_2024,MB,laboratory summary,sarscov2,9184.0,70237.0,51,13.076
+2023_2024,NB,laboratory summary,adv,165.0,4773.0,51,3.457
+2023_2024,NB,laboratory summary,evrv,941.0,4773.0,51,19.715
+2023_2024,NB,laboratory summary,flu,3484.0,44430.0,51,7.842
+2023_2024,NB,laboratory summary,flua,2421.0,44430.0,51,5.449
+2023_2024,NB,laboratory summary,fluah1,742.0,44430.0,51,1.67
+2023_2024,NB,laboratory summary,fluah3,32.0,44430.0,51,0.072
+2023_2024,NB,laboratory summary,fluauns,1647.0,44430.0,51,3.707
+2023_2024,NB,laboratory summary,flub,1063.0,44430.0,51,2.393
+2023_2024,NB,laboratory summary,hcov,163.0,4773.0,51,3.415
+2023_2024,NB,laboratory summary,hmpv,133.0,4773.0,51,2.787
+2023_2024,NB,laboratory summary,rsv,1848.0,44067.0,51,4.194
+2023_2024,NB,laboratory summary,sarscov2,4783.0,49601.0,51,9.643
+2023_2024,NL,laboratory summary,adv,360.0,23532.0,51,1.53
+2023_2024,NL,laboratory summary,evrv,2287.0,23532.0,51,9.719
+2023_2024,NL,laboratory summary,flu,1447.0,23532.0,51,6.149
+2023_2024,NL,laboratory summary,flua,1257.0,23532.0,51,5.342
+2023_2024,NL,laboratory summary,fluah1,0.0,23532.0,51,0.0
+2023_2024,NL,laboratory summary,fluah3,0.0,23532.0,51,0.0
+2023_2024,NL,laboratory summary,fluauns,1257.0,23532.0,51,5.342
+2023_2024,NL,laboratory summary,flub,190.0,23532.0,51,0.807
+2023_2024,NL,laboratory summary,hcov,607.0,23532.0,51,2.579
+2023_2024,NL,laboratory summary,hmpv,558.0,23532.0,51,2.371
+2023_2024,NL,laboratory summary,rsv,1040.0,23532.0,51,4.42
+2023_2024,NL,laboratory summary,sarscov2,4316.0,30897.0,51,13.969
+2023_2024,NS,laboratory summary,adv,50.0,1744.0,51,2.867
+2023_2024,NS,laboratory summary,evrv,324.0,1744.0,51,18.578
+2023_2024,NS,laboratory summary,flu,3508.0,50431.0,51,6.956
+2023_2024,NS,laboratory summary,flua,2818.0,50431.0,51,5.588
+2023_2024,NS,laboratory summary,fluah1,0.0,50431.0,51,0.0
+2023_2024,NS,laboratory summary,fluah3,0.0,50431.0,51,0.0
+2023_2024,NS,laboratory summary,fluauns,2818.0,50431.0,51,5.588
+2023_2024,NS,laboratory summary,flub,690.0,50431.0,51,1.368
+2023_2024,NS,laboratory summary,hcov,38.0,1743.0,51,2.18
+2023_2024,NS,laboratory summary,hmpv,24.0,1737.0,51,1.382
+2023_2024,NS,laboratory summary,rsv,1375.0,42866.0,51,3.208
+2023_2024,NS,laboratory summary,sarscov2,10291.0,64889.0,51,15.859
+2023_2024,NT,laboratory summary,adv,28.0,862.0,30,3.248
+2023_2024,NT,laboratory summary,evrv,215.0,1303.0,46,16.5
+2023_2024,NT,laboratory summary,flu,159.0,1302.0,46,12.212
+2023_2024,NT,laboratory summary,flua,92.0,1302.0,46,7.066
+2023_2024,NT,laboratory summary,fluah1,87.0,1302.0,46,6.682
+2023_2024,NT,laboratory summary,fluah3,5.0,1302.0,46,0.384
+2023_2024,NT,laboratory summary,fluauns,0.0,1302.0,46,0.0
+2023_2024,NT,laboratory summary,flub,67.0,1302.0,46,5.146
+2023_2024,NT,laboratory summary,hmpv,19.0,862.0,30,2.204
+2023_2024,NT,laboratory summary,rsv,154.0,1302.0,46,11.828
+2023_2024,NT,laboratory summary,sarscov2,107.0,1366.0,46,7.833
+2023_2024,NU,laboratory summary,flu,522.0,4610.0,45,11.323
+2023_2024,NU,laboratory summary,flua,292.0,4610.0,45,6.334
+2023_2024,NU,laboratory summary,fluah1,9.0,4610.0,45,0.195
+2023_2024,NU,laboratory summary,fluah3,20.0,4610.0,45,0.434
+2023_2024,NU,laboratory summary,fluauns,263.0,4610.0,45,5.705
+2023_2024,NU,laboratory summary,flub,230.0,4610.0,45,4.989
+2023_2024,NU,laboratory summary,rsv,400.0,4610.0,45,8.677
+2023_2024,NU,laboratory summary,sarscov2,489.0,6040.0,45,8.096
+2023_2024,ON,regional,adv,1864.0,229548.0,51,0.812
+2023_2024,ON,regional,evrv,17122.0,232977.0,51,7.349
+2023_2024,ON,regional,flu,14511.0,317329.0,51,4.573
+2023_2024,ON,regional,flua,11629.0,317329.0,51,3.665
+2023_2024,ON,regional,fluah1,3761.0,317329.0,51,1.185
+2023_2024,ON,regional,fluah3,1904.0,317329.0,51,0.6
+2023_2024,ON,regional,fluauns,7326.0,317329.0,51,2.309
+2023_2024,ON,regional,flub,2882.0,317329.0,51,0.908
+2023_2024,ON,regional,hcov,4616.0,158268.0,51,2.917
+2023_2024,ON,regional,hmpv,4028.0,234366.0,51,1.719
+2023_2024,ON,regional,rsv,7823.0,317289.0,51,2.466
+2023_2024,ON,regional,sarscov2,49589.0,387439.0,51,12.799
+2023_2024,PE,laboratory summary,adv,40.0,678.0,48,5.9
+2023_2024,PE,laboratory summary,evrv,196.0,679.0,48,28.866
+2023_2024,PE,laboratory summary,flu,691.0,5593.0,48,12.355
+2023_2024,PE,laboratory summary,flua,452.0,5593.0,48,8.082
+2023_2024,PE,laboratory summary,fluah1,0.0,5593.0,48,0.0
+2023_2024,PE,laboratory summary,fluah3,0.0,5593.0,48,0.0
+2023_2024,PE,laboratory summary,fluauns,452.0,5593.0,48,8.082
+2023_2024,PE,laboratory summary,flub,239.0,5593.0,48,4.273
+2023_2024,PE,laboratory summary,hcov,40.0,663.0,47,6.033
+2023_2024,PE,laboratory summary,hmpv,31.0,668.0,47,4.641
+2023_2024,PE,laboratory summary,rsv,354.0,5593.0,48,6.329
+2023_2024,PE,laboratory summary,sarscov2,941.0,8656.0,47,10.871
+2023_2024,QC,regional,adv,1788.0,71981.0,51,2.484
+2023_2024,QC,regional,flu,31879.0,375220.0,51,8.496
+2023_2024,QC,regional,flua,24390.0,375220.0,51,6.5
+2023_2024,QC,regional,fluah1,13.0,375220.0,51,0.003
+2023_2024,QC,regional,fluah3,3.0,375220.0,51,0.001
+2023_2024,QC,regional,fluauns,24374.0,375220.0,51,6.496
+2023_2024,QC,regional,flub,7489.0,375220.0,51,1.996
+2023_2024,QC,regional,hcov,2008.0,66828.0,51,3.005
+2023_2024,QC,regional,hmpv,2116.0,71422.0,51,2.963
+2023_2024,QC,regional,rsv,11868.0,276601.0,51,4.291
+2023_2024,QC,regional,sarscov2,73168.0,518789.0,51,14.104
+2023_2024,SK,laboratory summary,adv,296.0,18388.0,51,1.61
+2023_2024,SK,laboratory summary,evrv,2028.0,18388.0,51,11.029
+2023_2024,SK,laboratory summary,flu,6832.0,57265.0,51,11.93
+2023_2024,SK,laboratory summary,flua,4719.0,57265.0,51,8.241
+2023_2024,SK,laboratory summary,fluah1,0.0,57265.0,51,0.0
+2023_2024,SK,laboratory summary,fluah3,0.0,57265.0,51,0.0
+2023_2024,SK,laboratory summary,fluauns,4719.0,57265.0,51,8.241
+2023_2024,SK,laboratory summary,flub,2113.0,57265.0,51,3.69
+2023_2024,SK,laboratory summary,hcov,491.0,18388.0,51,2.67
+2023_2024,SK,laboratory summary,hmpv,667.0,18388.0,51,3.627
+2023_2024,SK,laboratory summary,rsv,1592.0,50496.0,51,3.153
+2023_2024,SK,laboratory summary,sarscov2,9163.0,87157.0,51,10.513
+2023_2024,YT,laboratory summary,flu,93.0,1518.0,48,6.126
+2023_2024,YT,laboratory summary,flua,63.0,1518.0,48,4.15
+2023_2024,YT,laboratory summary,fluah1,13.0,1518.0,48,0.856
+2023_2024,YT,laboratory summary,fluah3,2.0,1518.0,48,0.132
+2023_2024,YT,laboratory summary,fluauns,0.0,1518.0,48,0.0
+2023_2024,YT,laboratory summary,flub,30.0,1518.0,48,1.976
+2023_2024,YT,laboratory summary,rsv,41.0,1512.0,48,2.712
+2023_2024,YT,laboratory summary,sarscov2,241.0,2354.0,49,10.238
+2024_2025,AB,laboratory summary,adv,529.0,70368.0,52,0.752
+2024_2025,AB,laboratory summary,evrv,7684.0,70006.0,52,10.976
+2024_2025,AB,laboratory summary,flu,17288.0,183277.0,52,9.433
+2024_2025,AB,laboratory summary,flua,15606.0,183277.0,52,8.515
+2024_2025,AB,laboratory summary,fluah1,8620.0,183277.0,52,4.703
+2024_2025,AB,laboratory summary,fluah3,6205.0,183277.0,52,3.386
+2024_2025,AB,laboratory summary,fluauns,748.0,183277.0,52,0.408
+2024_2025,AB,laboratory summary,flub,1682.0,183277.0,52,0.918
+2024_2025,AB,laboratory summary,hcov,1922.0,70384.0,52,2.731
+2024_2025,AB,laboratory summary,hmpv,1329.0,69464.0,52,1.913
+2024_2025,AB,laboratory summary,rsv,7644.0,174021.0,52,4.393
+2024_2025,AB,laboratory summary,sarscov2,15398.0,269265.0,52,5.719
+2024_2025,BC,regional,adv,902.0,60159.0,52,1.499
+2024_2025,BC,regional,evrv,7665.0,60221.0,52,12.728
+2024_2025,BC,regional,flu,21964.0,203367.0,52,10.8
+2024_2025,BC,regional,flua,19181.0,203367.0,52,9.432
+2024_2025,BC,regional,fluah1,8871.0,203367.0,52,4.362
+2024_2025,BC,regional,fluah3,3007.0,203367.0,52,1.479
+2024_2025,BC,regional,fluauns,573.0,203367.0,52,0.282
+2024_2025,BC,regional,flub,2783.0,203367.0,52,1.368
+2024_2025,BC,regional,hcov,1994.0,58288.0,52,3.421
+2024_2025,BC,regional,hmpv,1825.0,58849.0,52,3.101
+2024_2025,BC,regional,rsv,8462.0,199462.0,52,4.242
+2024_2025,BC,regional,sarscov2,11849.0,182441.0,52,6.495
+2024_2025,Canada,national,adv,6695.0,526081.0,52,1.273
+2024_2025,Canada,national,evrv,58009.0,528476.0,52,10.977
+2024_2025,Canada,national,flu,139834.0,1452090.0,52,9.63
+2024_2025,Canada,national,flua,123546.0,1452090.0,52,8.508
+2024_2025,Canada,national,fluah1,38946.0,1452090.0,52,2.682
+2024_2025,Canada,national,fluah3,17216.0,1452090.0,52,1.186
+2024_2025,Canada,national,fluauns,71998.0,1452090.0,52,4.958
+2024_2025,Canada,national,flub,16288.0,1452090.0,52,1.122
+2024_2025,Canada,national,hcov,15470.0,482048.0,52,3.209
+2024_2025,Canada,national,hmpv,10564.0,523425.0,52,2.018
+2024_2025,Canada,national,rsv,51092.0,1352029.0,52,3.779
+2024_2025,Canada,national,sarscov2,120718.0,1583037.0,52,7.626
+2024_2025,MB,laboratory summary,adv,77.0,4175.0,52,1.844
+2024_2025,MB,laboratory summary,evrv,742.0,4175.0,52,17.772
+2024_2025,MB,laboratory summary,flu,4871.0,46009.0,52,10.587
+2024_2025,MB,laboratory summary,flua,4689.0,46009.0,52,10.191
+2024_2025,MB,laboratory summary,fluah1,190.0,46009.0,52,0.413
+2024_2025,MB,laboratory summary,fluah3,123.0,46009.0,52,0.267
+2024_2025,MB,laboratory summary,fluauns,4376.0,46009.0,52,9.511
+2024_2025,MB,laboratory summary,flub,182.0,46009.0,52,0.396
+2024_2025,MB,laboratory summary,hcov,178.0,4436.0,52,4.013
+2024_2025,MB,laboratory summary,hmpv,165.0,4436.0,52,3.72
+2024_2025,MB,laboratory summary,rsv,956.0,46009.0,52,2.078
+2024_2025,MB,laboratory summary,sarscov2,4419.0,62208.0,52,7.104
+2024_2025,NB,laboratory summary,adv,262.0,7466.0,52,3.509
+2024_2025,NB,laboratory summary,evrv,1446.0,7470.0,52,19.357
+2024_2025,NB,laboratory summary,flu,5425.0,52737.0,52,10.287
+2024_2025,NB,laboratory summary,flua,4943.0,52737.0,52,9.373
+2024_2025,NB,laboratory summary,fluah1,1076.0,52737.0,52,2.04
+2024_2025,NB,laboratory summary,fluah3,115.0,52737.0,52,0.218
+2024_2025,NB,laboratory summary,fluauns,3752.0,52737.0,52,7.115
+2024_2025,NB,laboratory summary,flub,482.0,52737.0,52,0.914
+2024_2025,NB,laboratory summary,hcov,305.0,7456.0,52,4.091
+2024_2025,NB,laboratory summary,hmpv,183.0,7470.0,52,2.45
+2024_2025,NB,laboratory summary,rsv,2727.0,52706.0,52,5.174
+2024_2025,NB,laboratory summary,sarscov2,3524.0,58224.0,52,6.052
+2024_2025,NL,laboratory summary,adv,638.0,27025.0,52,2.361
+2024_2025,NL,laboratory summary,evrv,3192.0,27025.0,52,11.811
+2024_2025,NL,laboratory summary,flu,2033.0,27025.0,52,7.523
+2024_2025,NL,laboratory summary,flua,1991.0,27025.0,52,7.367
+2024_2025,NL,laboratory summary,fluah1,0.0,27025.0,52,0.0
+2024_2025,NL,laboratory summary,fluah3,0.0,27025.0,52,0.0
+2024_2025,NL,laboratory summary,fluauns,1991.0,27025.0,52,7.367
+2024_2025,NL,laboratory summary,flub,42.0,27025.0,52,0.155
+2024_2025,NL,laboratory summary,hcov,530.0,27106.0,52,1.955
+2024_2025,NL,laboratory summary,hmpv,300.0,27025.0,52,1.11
+2024_2025,NL,laboratory summary,rsv,1062.0,27025.0,52,3.93
+2024_2025,NL,laboratory summary,sarscov2,1835.0,30320.0,52,6.052
+2024_2025,NS,laboratory summary,adv,45.0,2201.0,52,2.045
+2024_2025,NS,laboratory summary,evrv,428.0,2201.0,52,19.446
+2024_2025,NS,laboratory summary,flu,6257.0,65801.0,52,9.509
+2024_2025,NS,laboratory summary,flua,5745.0,65801.0,52,8.731
+2024_2025,NS,laboratory summary,fluah1,797.0,65801.0,52,1.211
+2024_2025,NS,laboratory summary,fluah3,166.0,65801.0,52,0.252
+2024_2025,NS,laboratory summary,fluauns,4782.0,65801.0,52,7.267
+2024_2025,NS,laboratory summary,flub,512.0,65801.0,52,0.778
+2024_2025,NS,laboratory summary,hcov,68.0,2211.0,52,3.076
+2024_2025,NS,laboratory summary,hmpv,45.0,2200.0,52,2.045
+2024_2025,NS,laboratory summary,rsv,2357.0,62492.0,52,3.772
+2024_2025,NS,laboratory summary,sarscov2,5025.0,67482.0,52,7.446
+2024_2025,NT,laboratory summary,adv,42.0,1806.0,47,2.326
+2024_2025,NT,laboratory summary,evrv,341.0,1806.0,47,18.882
+2024_2025,NT,laboratory summary,flu,307.0,2084.0,52,14.731
+2024_2025,NT,laboratory summary,flua,261.0,2084.0,52,12.524
+2024_2025,NT,laboratory summary,fluah1,93.0,2084.0,52,4.463
+2024_2025,NT,laboratory summary,fluah3,166.0,2084.0,52,7.965
+2024_2025,NT,laboratory summary,fluauns,2.0,2084.0,52,0.096
+2024_2025,NT,laboratory summary,flub,46.0,2084.0,52,2.207
+2024_2025,NT,laboratory summary,hmpv,98.0,1806.0,47,5.426
+2024_2025,NT,laboratory summary,rsv,62.0,2084.0,52,2.975
+2024_2025,NT,laboratory summary,sarscov2,94.0,2092.0,52,4.493
+2024_2025,NU,laboratory summary,flu,575.0,5470.0,52,10.512
+2024_2025,NU,laboratory summary,flua,552.0,5470.0,52,10.091
+2024_2025,NU,laboratory summary,fluah1,309.0,5470.0,52,5.649
+2024_2025,NU,laboratory summary,fluah3,194.0,5470.0,52,3.547
+2024_2025,NU,laboratory summary,fluauns,49.0,5470.0,52,0.896
+2024_2025,NU,laboratory summary,flub,23.0,5470.0,52,0.42
+2024_2025,NU,laboratory summary,rsv,413.0,5470.0,52,7.55
+2024_2025,NU,laboratory summary,sarscov2,240.0,6179.0,52,3.884
+2024_2025,ON,regional,adv,2006.0,256055.0,52,0.783
+2024_2025,ON,regional,evrv,24171.0,256103.0,52,9.438
+2024_2025,ON,regional,flu,23863.0,358652.0,52,6.654
+2024_2025,ON,regional,flua,21637.0,358652.0,52,6.033
+2024_2025,ON,regional,fluah1,17950.0,358652.0,52,5.005
+2024_2025,ON,regional,fluah3,6571.0,358652.0,52,1.832
+2024_2025,ON,regional,fluauns,8537.0,358652.0,52,2.38
+2024_2025,ON,regional,flub,2226.0,358652.0,52,0.621
+2024_2025,ON,regional,hcov,7687.0,218416.0,52,3.519
+2024_2025,ON,regional,hmpv,4531.0,256039.0,52,1.77
+2024_2025,ON,regional,rsv,9533.0,358707.0,52,2.658
+2024_2025,ON,regional,sarscov2,34825.0,383561.0,52,9.079
+2024_2025,PE,laboratory summary,adv,55.0,859.0,52,6.403
+2024_2025,PE,laboratory summary,evrv,296.0,859.0,52,34.459
+2024_2025,PE,laboratory summary,flu,1051.0,6815.0,52,15.422
+2024_2025,PE,laboratory summary,flua,1025.0,6815.0,52,15.04
+2024_2025,PE,laboratory summary,fluah1,6.0,6815.0,52,0.088
+2024_2025,PE,laboratory summary,fluah3,31.0,6815.0,52,0.455
+2024_2025,PE,laboratory summary,fluauns,988.0,6815.0,52,14.497
+2024_2025,PE,laboratory summary,flub,26.0,6815.0,52,0.382
+2024_2025,PE,laboratory summary,hcov,81.0,859.0,52,9.43
+2024_2025,PE,laboratory summary,hmpv,28.0,859.0,52,3.26
+2024_2025,PE,laboratory summary,rsv,448.0,6815.0,52,6.574
+2024_2025,PE,laboratory summary,sarscov2,517.0,8349.0,52,6.192
+2024_2025,QC,regional,adv,1934.0,70820.0,52,2.731
+2024_2025,QC,regional,evrv,9131.0,73463.0,52,12.429
+2024_2025,QC,regional,flu,48411.0,434866.0,52,11.132
+2024_2025,QC,regional,flua,41347.0,434866.0,52,9.508
+2024_2025,QC,regional,fluah1,24.0,434866.0,52,0.006
+2024_2025,QC,regional,fluah3,9.0,434866.0,52,0.002
+2024_2025,QC,regional,fluauns,41314.0,434866.0,52,9.5
+2024_2025,QC,regional,flub,7064.0,434866.0,52,1.624
+2024_2025,QC,regional,hcov,2017.0,67745.0,52,2.977
+2024_2025,QC,regional,hmpv,1493.0,70130.0,52,2.129
+2024_2025,QC,regional,rsv,14287.0,356311.0,52,4.01
+2024_2025,QC,regional,sarscov2,38074.0,428251.0,52,8.891
+2024_2025,SK,laboratory summary,adv,205.0,25147.0,52,0.815
+2024_2025,SK,laboratory summary,evrv,2913.0,25147.0,52,11.584
+2024_2025,SK,laboratory summary,flu,7552.0,64212.0,52,11.761
+2024_2025,SK,laboratory summary,flua,6336.0,64212.0,52,9.867
+2024_2025,SK,laboratory summary,fluah1,923.0,64212.0,52,1.437
+2024_2025,SK,laboratory summary,fluah3,527.0,64212.0,52,0.821
+2024_2025,SK,laboratory summary,fluauns,4886.0,64212.0,52,7.609
+2024_2025,SK,laboratory summary,flub,1216.0,64212.0,52,1.894
+2024_2025,SK,laboratory summary,hcov,688.0,25147.0,52,2.736
+2024_2025,SK,laboratory summary,hmpv,567.0,25147.0,52,2.255
+2024_2025,SK,laboratory summary,rsv,3072.0,59152.0,52,5.193
+2024_2025,SK,laboratory summary,sarscov2,4818.0,82399.0,52,5.847
+2024_2025,YT,laboratory summary,flu,237.0,1775.0,52,13.352
+2024_2025,YT,laboratory summary,flua,233.0,1775.0,52,13.127
+2024_2025,YT,laboratory summary,fluah1,87.0,1775.0,52,4.901
+2024_2025,YT,laboratory summary,fluah3,102.0,1775.0,52,5.746
+2024_2025,YT,laboratory summary,fluauns,0.0,1775.0,52,0.0
+2024_2025,YT,laboratory summary,flub,4.0,1775.0,52,0.225
+2024_2025,YT,laboratory summary,rsv,69.0,1775.0,52,3.887
+2024_2025,YT,laboratory summary,sarscov2,100.0,2266.0,52,4.413
+2025_2026,AB,laboratory summary,adv,567.0,87775.0,53,0.646
+2025_2026,AB,laboratory summary,evrv,10496.0,87775.0,53,11.958
+2025_2026,AB,laboratory summary,flu,23025.0,199851.0,53,11.521
+2025_2026,AB,laboratory summary,flua,16775.0,199851.0,53,8.394
+2025_2026,AB,laboratory summary,fluah1,2358.0,199851.0,53,1.18
+2025_2026,AB,laboratory summary,fluah3,12039.0,199851.0,53,6.024
+2025_2026,AB,laboratory summary,fluauns,851.0,199851.0,53,0.426
+2025_2026,AB,laboratory summary,flub,6250.0,199851.0,53,3.127
+2025_2026,AB,laboratory summary,hcov,2429.0,85401.0,53,2.844
+2025_2026,AB,laboratory summary,hmpv,2216.0,87775.0,53,2.525
+2025_2026,AB,laboratory summary,rsv,6361.0,190219.0,53,3.344
+2025_2026,AB,laboratory summary,sarscov2,8009.0,241728.0,53,3.313
+2025_2026,BC,regional,adv,557.0,41992.0,53,1.326
+2025_2026,BC,regional,evrv,5868.0,42359.0,53,13.853
+2025_2026,BC,regional,flu,13444.0,166075.0,53,8.095
+2025_2026,BC,regional,flua,11141.0,166075.0,53,6.708
+2025_2026,BC,regional,fluah1,1678.0,166075.0,53,1.01
+2025_2026,BC,regional,fluah3,5123.0,166075.0,53,3.085
+2025_2026,BC,regional,fluauns,154.0,166075.0,53,0.093
+2025_2026,BC,regional,flub,2303.0,166075.0,53,1.387
+2025_2026,BC,regional,hcov,920.0,40260.0,53,2.285
+2025_2026,BC,regional,hmpv,1435.0,40772.0,53,3.52
+2025_2026,BC,regional,rsv,5653.0,165978.0,53,3.406
+2025_2026,BC,regional,sarscov2,6011.0,142845.0,53,4.208
+2025_2026,Canada,national,adv,5335.0,446440.0,53,1.195
+2025_2026,Canada,national,evrv,49823.0,476220.0,53,10.462
+2025_2026,Canada,national,flu,145895.0,1521661.0,53,9.588
+2025_2026,Canada,national,flua,120244.0,1521661.0,53,7.902
+2025_2026,Canada,national,fluah1,6164.0,1521661.0,53,0.405
+2025_2026,Canada,national,fluah3,28506.0,1521661.0,53,1.873
+2025_2026,Canada,national,fluauns,79830.0,1521661.0,53,5.246
+2025_2026,Canada,national,flub,25651.0,1521661.0,53,1.686
+2025_2026,Canada,national,hcov,11124.0,423361.0,53,2.628
+2025_2026,Canada,national,hmpv,10684.0,461251.0,53,2.316
+2025_2026,Canada,national,rsv,44568.0,1433808.0,53,3.108
+2025_2026,Canada,national,sarscov2,72644.0,1606408.0,53,4.522
+2025_2026,MB,laboratory summary,adv,71.0,4247.0,53,1.672
+2025_2026,MB,laboratory summary,evrv,799.0,4247.0,53,18.813
+2025_2026,MB,laboratory summary,flu,2656.0,50789.0,53,5.229
+2025_2026,MB,laboratory summary,flua,2120.0,50789.0,53,4.174
+2025_2026,MB,laboratory summary,fluah1,8.0,50789.0,53,0.016
+2025_2026,MB,laboratory summary,fluah3,141.0,50789.0,53,0.278
+2025_2026,MB,laboratory summary,fluauns,1971.0,50789.0,53,3.881
+2025_2026,MB,laboratory summary,flub,536.0,50789.0,53,1.055
+2025_2026,MB,laboratory summary,hcov,127.0,4247.0,53,2.99
+2025_2026,MB,laboratory summary,hmpv,173.0,4247.0,53,4.073
+2025_2026,MB,laboratory summary,rsv,605.0,50789.0,53,1.191
+2025_2026,MB,laboratory summary,sarscov2,2270.0,55003.0,53,4.127
+2025_2026,NB,laboratory summary,adv,208.0,5725.0,53,3.633
+2025_2026,NB,laboratory summary,evrv,1180.0,5725.0,53,20.611
+2025_2026,NB,laboratory summary,flu,5550.0,44992.0,53,12.336
+2025_2026,NB,laboratory summary,flua,3994.0,44992.0,53,8.877
+2025_2026,NB,laboratory summary,fluah1,35.0,44992.0,53,0.078
+2025_2026,NB,laboratory summary,fluah3,540.0,44992.0,53,1.2
+2025_2026,NB,laboratory summary,fluauns,3419.0,44992.0,53,7.599
+2025_2026,NB,laboratory summary,flub,1556.0,44992.0,53,3.458
+2025_2026,NB,laboratory summary,hcov,205.0,5725.0,53,3.581
+2025_2026,NB,laboratory summary,hmpv,168.0,5725.0,53,2.934
+2025_2026,NB,laboratory summary,rsv,1587.0,45037.0,53,3.524
+2025_2026,NB,laboratory summary,sarscov2,2197.0,47506.0,53,4.625
+2025_2026,NL,laboratory summary,adv,165.0,18525.0,53,0.891
+2025_2026,NL,laboratory summary,evrv,1566.0,18525.0,53,8.453
+2025_2026,NL,laboratory summary,flu,1590.0,18525.0,53,8.583
+2025_2026,NL,laboratory summary,flua,907.0,18525.0,53,4.896
+2025_2026,NL,laboratory summary,fluah1,23.0,18525.0,53,0.124
+2025_2026,NL,laboratory summary,fluah3,648.0,18525.0,53,3.498
+2025_2026,NL,laboratory summary,fluauns,236.0,18525.0,53,1.274
+2025_2026,NL,laboratory summary,flub,683.0,18525.0,53,3.687
+2025_2026,NL,laboratory summary,hcov,907.0,18525.0,53,4.896
+2025_2026,NL,laboratory summary,hmpv,625.0,18525.0,53,3.374
+2025_2026,NL,laboratory summary,rsv,611.0,18525.0,53,3.298
+2025_2026,NL,laboratory summary,sarscov2,863.0,20180.0,53,4.277
+2025_2026,NS,laboratory summary,adv,35.0,1992.0,53,1.757
+2025_2026,NS,laboratory summary,evrv,317.0,1992.0,53,15.914
+2025_2026,NS,laboratory summary,flu,5122.0,58765.0,53,8.716
+2025_2026,NS,laboratory summary,flua,3682.0,58765.0,53,6.266
+2025_2026,NS,laboratory summary,fluah1,82.0,58765.0,53,0.14
+2025_2026,NS,laboratory summary,fluah3,603.0,58765.0,53,1.026
+2025_2026,NS,laboratory summary,fluauns,2997.0,58765.0,53,5.1
+2025_2026,NS,laboratory summary,flub,1440.0,58765.0,53,2.45
+2025_2026,NS,laboratory summary,hcov,64.0,1992.0,53,3.213
+2025_2026,NS,laboratory summary,hmpv,48.0,1992.0,53,2.41
+2025_2026,NS,laboratory summary,rsv,1637.0,58765.0,53,2.786
+2025_2026,NS,laboratory summary,sarscov2,2907.0,58272.0,53,4.989
+2025_2026,NT,laboratory summary,adv,31.0,1841.0,52,1.684
+2025_2026,NT,laboratory summary,evrv,320.0,1841.0,52,17.382
+2025_2026,NT,laboratory summary,flu,272.0,1841.0,52,14.775
+2025_2026,NT,laboratory summary,flua,212.0,1841.0,52,11.515
+2025_2026,NT,laboratory summary,fluah1,38.0,1841.0,52,2.064
+2025_2026,NT,laboratory summary,fluah3,174.0,1841.0,52,9.451
+2025_2026,NT,laboratory summary,fluauns,0.0,1841.0,52,0.0
+2025_2026,NT,laboratory summary,flub,60.0,1841.0,52,3.259
+2025_2026,NT,laboratory summary,hmpv,23.0,1841.0,52,1.249
+2025_2026,NT,laboratory summary,rsv,98.0,1841.0,52,5.323
+2025_2026,NT,laboratory summary,sarscov2,78.0,1841.0,52,4.237
+2025_2026,NU,laboratory summary,flu,766.0,5131.0,52,14.929
+2025_2026,NU,laboratory summary,flua,474.0,5131.0,52,9.238
+2025_2026,NU,laboratory summary,fluah1,29.0,5131.0,52,0.565
+2025_2026,NU,laboratory summary,fluah3,406.0,5131.0,52,7.913
+2025_2026,NU,laboratory summary,fluauns,39.0,5131.0,52,0.76
+2025_2026,NU,laboratory summary,flub,292.0,5131.0,52,5.691
+2025_2026,NU,laboratory summary,rsv,258.0,5131.0,52,5.028
+2025_2026,NU,laboratory summary,sarscov2,151.0,5191.0,52,2.909
+2025_2026,ON,regional,adv,1525.0,200817.0,53,0.759
+2025_2026,ON,regional,evrv,18984.0,229170.0,53,8.284
+2025_2026,ON,regional,flu,41897.0,482544.0,53,8.683
+2025_2026,ON,regional,flua,36563.0,482544.0,53,7.577
+2025_2026,ON,regional,fluah1,1679.0,482544.0,53,0.348
+2025_2026,ON,regional,fluah3,8028.0,482544.0,53,1.664
+2025_2026,ON,regional,fluauns,26856.0,482544.0,53,5.566
+2025_2026,ON,regional,flub,5334.0,482544.0,53,1.105
+2025_2026,ON,regional,hcov,4068.0,184146.0,53,2.209
+2025_2026,ON,regional,hmpv,3481.0,217181.0,53,1.603
+2025_2026,ON,regional,rsv,13765.0,483139.0,53,2.849
+2025_2026,ON,regional,sarscov2,22604.0,499540.0,53,4.525
+2025_2026,PE,laboratory summary,adv,32.0,481.0,53,6.653
+2025_2026,PE,laboratory summary,evrv,168.0,481.0,53,34.927
+2025_2026,PE,laboratory summary,flu,734.0,5261.0,53,13.952
+2025_2026,PE,laboratory summary,flua,504.0,5261.0,53,9.58
+2025_2026,PE,laboratory summary,fluah1,1.0,5261.0,53,0.019
+2025_2026,PE,laboratory summary,fluah3,8.0,5261.0,53,0.152
+2025_2026,PE,laboratory summary,fluauns,495.0,5261.0,53,9.409
+2025_2026,PE,laboratory summary,flub,230.0,5261.0,53,4.372
+2025_2026,PE,laboratory summary,hcov,25.0,481.0,53,5.198
+2025_2026,PE,laboratory summary,hmpv,37.0,481.0,53,7.692
+2025_2026,PE,laboratory summary,rsv,230.0,5261.0,53,4.372
+2025_2026,PE,laboratory summary,sarscov2,270.0,5821.0,53,4.638
+2025_2026,QC,regional,adv,1780.0,58388.0,53,3.049
+2025_2026,QC,regional,evrv,7196.0,59448.0,53,12.105
+2025_2026,QC,regional,flu,42350.0,422163.0,53,10.032
+2025_2026,QC,regional,flua,37623.0,422163.0,53,8.912
+2025_2026,QC,regional,fluah1,8.0,422163.0,53,0.002
+2025_2026,QC,regional,fluah3,20.0,422163.0,53,0.005
+2025_2026,QC,regional,fluauns,37595.0,422163.0,53,8.905
+2025_2026,QC,regional,flub,4727.0,422163.0,53,1.12
+2025_2026,QC,regional,hcov,1607.0,57927.0,53,2.774
+2025_2026,QC,regional,hmpv,1650.0,58055.0,53,2.842
+2025_2026,QC,regional,rsv,11362.0,348084.0,53,3.264
+2025_2026,QC,regional,sarscov2,24639.0,462326.0,53,5.329
+2025_2026,SK,laboratory summary,adv,364.0,24657.0,53,1.476
+2025_2026,SK,laboratory summary,evrv,2929.0,24657.0,53,11.879
+2025_2026,SK,laboratory summary,flu,8293.0,64193.0,53,12.919
+2025_2026,SK,laboratory summary,flua,6128.0,64193.0,53,9.546
+2025_2026,SK,laboratory summary,fluah1,189.0,64193.0,53,0.294
+2025_2026,SK,laboratory summary,fluah3,722.0,64193.0,53,1.125
+2025_2026,SK,laboratory summary,fluauns,5217.0,64193.0,53,8.127
+2025_2026,SK,laboratory summary,flub,2165.0,64193.0,53,3.373
+2025_2026,SK,laboratory summary,hcov,772.0,24657.0,53,3.131
+2025_2026,SK,laboratory summary,hmpv,828.0,24657.0,53,3.358
+2025_2026,SK,laboratory summary,rsv,2355.0,59510.0,53,3.957
+2025_2026,SK,laboratory summary,sarscov2,2618.0,64162.0,53,4.08
+2025_2026,YT,laboratory summary,flu,196.0,1531.0,53,12.802
+2025_2026,YT,laboratory summary,flua,121.0,1531.0,53,7.903
+2025_2026,YT,laboratory summary,fluah1,36.0,1531.0,53,2.351
+2025_2026,YT,laboratory summary,fluah3,54.0,1531.0,53,3.527
+2025_2026,YT,laboratory summary,fluauns,0.0,1531.0,53,0.0
+2025_2026,YT,laboratory summary,flub,75.0,1531.0,53,4.899
+2025_2026,YT,laboratory summary,rsv,46.0,1529.0,53,3.009
+2025_2026,YT,laboratory summary,sarscov2,27.0,1993.0,53,1.355
